@@ -10,7 +10,7 @@ on:
 permissions:
   contents: write
 
-jobs:
+jobs: 
   merge:
     runs-on: ubuntu-latest
     steps:
