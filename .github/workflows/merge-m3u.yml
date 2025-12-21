@@ -9,7 +9,7 @@ on:
 
 permissions:
   contents: write
-
+ 
 jobs: 
   merge:
     runs-on: ubuntu-latest
@@ -19,6 +19,27 @@ jobs:
 
       - name: Merge playlists
         run: bash scripts/merge_m3u.sh
+
+      - name: Commit master.m3u if changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add master.m3u
+          git commit -m "Auto-merge playlists -> master.m3u"
+          git push
+
+      - name: Show outputs
+        run: |
+          pwd
+          ls -la
+          echo "---- master.m3u ----"
+          ls -la master.m3u || true
+          wc -l master.m3u || true
+          head -n 5 master.m3u || true
 
       - name: Commit master.m3u if changed
         run: |
