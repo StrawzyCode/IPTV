@@ -1,0 +1,43 @@
+name: Update EPG from iptvx.one
+
+on:
+  schedule:
+    # Every hour at minute 0 (GitHub Actions uses UTC time)
+    - cron: "0 * * * *"
+  workflow_dispatch:  # lets you trigger it manually if you want
+
+jobs:
+  update-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true  # use GITHUB_TOKEN for pushing
+
+      - name: Download EPG file
+        run: |
+          curl -L "https://iptvx.one/EPG_NOARCH" -o epg.xml
+
+      - name: Show file info (optional)
+        run: |
+          file epg.xml || true
+          wc -l epg.xml || true
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Add file
+          git add epg.xml
+
+          # If there are no changes, stop here
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Update EPG from iptvx.one ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))"
+          git push
