@@ -15,47 +15,27 @@ https://gg.poocloud.in/familyguy/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/thesimpsons/index.m3u8
-#EXTINF:-1 tvg-id="ppv-14899" tvg-name="World Darts Championship" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="PPVLand - Live Now",World Darts Championship - 07:30 AM ET / 05:30 AM MT / 12:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/darts/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15552" tvg-name="Brentford vs. Tottenham Hotspur" tvg-logo="https://api.ppv.to/assets/thumb/3ce97ec548d4bebc09a73c0d1850a597-thumbnail.jpg" group-title="PPVLand - Live Now",Brentford vs. Tottenham Hotspur - 03:00 PM ET / 01:00 PM MT / 20:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/pl_bre/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15553" tvg-name="Sunderland vs. Manchester City" tvg-logo="https://api.ppv.to/assets/thumb/bd84a58b234b38067908a48f4b77ffd6-thumbnail.jpg" group-title="PPVLand - Live Now",Sunderland vs. Manchester City - 03:00 PM ET / 01:00 PM MT / 20:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/pl_sun/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15657" tvg-name="Utah Mammoth vs. New York Islanders" tvg-logo="https://api.ppv.to/assets/thumb/781e2037db17d96355fa12b3263a4bb3-thumbnail.jpg" group-title="PPVLand - Live Now",Utah Mammoth vs. New York Islanders - 03:00 PM ET / 01:00 PM MT / 20:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/newyorkislanders/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15437" tvg-name="Alabama Crimson Tide vs. Indiana Hoosiers" tvg-logo="https://api.ppv.to/assets/thumb/3c05a4468adaca4d72ed5b4ef4e1a0cf-thumbnail.jpg" group-title="PPVLand - Live Now",Alabama Crimson Tide vs. Indiana Hoosiers - 04:00 PM ET / 02:00 PM MT / 21:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ESPN/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15655" tvg-name="Houston Rockets vs. Brooklyn Nets" tvg-logo="https://api.ppv.to/assets/thumb/ee9e7630cdf2282f0ff0559cab95ba83-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Houston Rockets vs. Brooklyn Nets - 06:00 PM ET / 04:00 PM MT / 23:00 UK
+#EXTINF:-1 tvg-id="ppv-15655" tvg-name="Houston Rockets vs. Brooklyn Nets" tvg-logo="https://api.ppv.to/assets/thumb/ee9e7630cdf2282f0ff0559cab95ba83-thumbnail.jpg" group-title="PPVLand - Live Now",Houston Rockets vs. Brooklyn Nets - 06:00 PM ET / 04:00 PM MT / 23:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/brooklynnets/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15658" tvg-name="Miami Heat vs. Detroit Pistons" tvg-logo="https://api.ppv.to/assets/thumb/8f782a5667e71ca2e3d9584bac67e1d7-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Miami Heat vs. Detroit Pistons - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTINF:-1 tvg-id="ppv-15658" tvg-name="Miami Heat vs. Detroit Pistons" tvg-logo="https://api.ppv.to/assets/thumb/8f782a5667e71ca2e3d9584bac67e1d7-thumbnail.jpg" group-title="PPVLand - Live Now",Miami Heat vs. Detroit Pistons - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/detroitpistons/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15659" tvg-name="Winnipeg Jets vs. Toronto Maple Leafs" tvg-logo="https://api.ppv.to/assets/thumb/6f954df4f506a10878e503628b831908-thumbnail.jpg" group-title="PPVLand - NHL Action",Winnipeg Jets vs. Toronto Maple Leafs - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTINF:-1 tvg-id="ppv-15659" tvg-name="Winnipeg Jets vs. Toronto Maple Leafs" tvg-logo="https://api.ppv.to/assets/thumb/6f954df4f506a10878e503628b831908-thumbnail.jpg" group-title="PPVLand - Live Now",Winnipeg Jets vs. Toronto Maple Leafs - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/torontomapleleafs/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15661" tvg-name="Detroit Red Wings vs. Pittsburgh Penguins" tvg-logo="https://api.ppv.to/assets/thumb/17358158d744a18b9c39e87a8e36e0fa-thumbnail.jpg" group-title="PPVLand - NHL Action",Detroit Red Wings vs. Pittsburgh Penguins - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTINF:-1 tvg-id="ppv-15661" tvg-name="Detroit Red Wings vs. Pittsburgh Penguins" tvg-logo="https://api.ppv.to/assets/thumb/17358158d744a18b9c39e87a8e36e0fa-thumbnail.jpg" group-title="PPVLand - Live Now",Detroit Red Wings vs. Pittsburgh Penguins - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/pittsburghpenguins/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15663" tvg-name="Montreal Canadiens vs. Carolina Hurricanes" tvg-logo="https://api.ppv.to/assets/thumb/21baaa3f52ac5796dfdf69168c663a4f-thumbnail.jpg" group-title="PPVLand - NHL Action",Montreal Canadiens vs. Carolina Hurricanes - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTINF:-1 tvg-id="ppv-15663" tvg-name="Montreal Canadiens vs. Carolina Hurricanes" tvg-logo="https://api.ppv.to/assets/thumb/21baaa3f52ac5796dfdf69168c663a4f-thumbnail.jpg" group-title="PPVLand - Live Now",Montreal Canadiens vs. Carolina Hurricanes - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/carolinahurricanes/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15665" tvg-name="Tampa Bay Lightning vs. Los Angeles Kings" tvg-logo="https://api.ppv.to/assets/thumb/71519124c0ab765fee3b58a071036bff-thumbnail.jpg" group-title="PPVLand - NHL Action",Tampa Bay Lightning vs. Los Angeles Kings - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTINF:-1 tvg-id="ppv-15665" tvg-name="Tampa Bay Lightning vs. Los Angeles Kings" tvg-logo="https://api.ppv.to/assets/thumb/71519124c0ab765fee3b58a071036bff-thumbnail.jpg" group-title="PPVLand - Live Now",Tampa Bay Lightning vs. Los Angeles Kings - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/losangeleskings/index.m3u8
@@ -71,6 +51,10 @@ https://gg.poocloud.in/wrestling/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/dallasmavericks/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15666" tvg-name="Dallas Stars vs. Chicago Blackhawks" tvg-logo="https://api.ppv.to/assets/thumb/7499241be1da895a810375f0eeed7268-thumbnail.jpg" group-title="PPVLand - NHL Action",Dallas Stars vs. Chicago Blackhawks - 08:30 PM ET / 06:30 PM MT / 01:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/chicagoblackhawks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15662" tvg-name="Boston Celtics vs. Sacramento Kings" tvg-logo="https://api.ppv.to/assets/thumb/12833293dc837d35cfb31ecbb80a0cc3-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Boston Celtics vs. Sacramento Kings - 10:00 PM ET / 08:00 PM MT / 03:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -83,10 +67,14 @@ https://gg.poocloud.in/seattlekraken/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/laclippers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15564" tvg-name="Cagliari vs. AC Milan" tvg-logo="https://api.ppv.to/assets/thumb/f8a19b6245b3bb141dd813acd2b9b3cb-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Cagliari vs. AC Milan - 02:45 PM ET / 12:45 PM MT / 19:45 UK
+#EXTINF:-1 tvg-id="ppv-15439" tvg-name="Rice Owls vs. Texas State Bobcats" tvg-logo="https://api.ppv.to/assets/thumb/418372260da4e53fd6d09f270bbda500-thumbnail.jpg" group-title="PPVLand - NFL Action",Rice Owls vs. Texas State Bobcats - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sa_cag/index.m3u8
+https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14899" tvg-name="World Darts Championship" tvg-logo="https://api.ppv.to/assets/thumb/4e218218e0ba40cac4b0d2867873c96a-thumbnail.jpg" group-title="PPVLand - Darts",World Darts Championship - 02:30 PM ET / 12:30 PM MT / 19:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/darts/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15574" tvg-name="Toulouse vs. Lens" tvg-logo="https://api.ppv.to/assets/thumb/0098b62119882563e93c05d2f9ffd4a3-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Toulouse vs. Lens - 02:45 PM ET / 12:45 PM MT / 19:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -95,10 +83,10 @@ https://gg.poocloud.in/l1_tou/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_ray/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15441" tvg-name="Arizona Wildcats vs. SMU Mustangs" tvg-logo="https://api.ppv.to/assets/thumb/a3a6a7f190434496f95eb694e88eb39b-thumbnail.jpg" group-title="PPVLand - NFL Action",Arizona Wildcats vs. SMU Mustangs - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTINF:-1 tvg-id="ppv-15440" tvg-name="Navy Midshipmen vs. Cincinnati Bearcats" tvg-logo="https://api.ppv.to/assets/thumb/9b65f7ef7075006b08bb6ee919e9c1d2-thumbnail.jpg" group-title="PPVLand - NFL Action",Navy Midshipmen vs. Cincinnati Bearcats - 04:30 PM ET / 02:30 PM MT / 21:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/FOX/index.m3u8
+https://gg.poocloud.in/ESPN/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15442" tvg-name="Wake Forest Demon Deacons vs. Mississippi State Bulldogs" tvg-logo="https://api.ppv.to/assets/thumb/2bb2ef27cdc28ea52df0c6b9548be3d4-thumbnail.jpg" group-title="PPVLand - NFL Action",Wake Forest Demon Deacons vs. Mississippi State Bulldogs - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -123,10 +111,10 @@ https://gg.poocloud.in/sa_gen/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_sas/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15556" tvg-name="Wolverhampton Wanderers vs. West Ham United" tvg-logo="https://api.ppv.to/assets/thumb/dd0135a3eadc6217fa73751f9ff1525f-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Wolverhampton Wanderers vs. West Ham United - 10:00 AM ET / 08:00 AM MT / 15:00 UK
+#EXTINF:-1 tvg-id="ppv-15555" tvg-name="Brighton & Hove Albion vs. Burnley" tvg-logo="https://api.ppv.to/assets/thumb/490152b0725b67a205762a956a323d0c-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Brighton & Hove Albion vs. Burnley - 10:00 AM ET / 08:00 AM MT / 15:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/pl_wol/index.m3u8
+https://gg.poocloud.in/pl_bha/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15524" tvg-name="Osasuna vs. Athletic Club" tvg-logo="https://api.ppv.to/assets/thumb/d0edaf27468aee5cefaf1dc2f4c69099-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Osasuna vs. Athletic Club - 10:15 AM ET / 08:15 AM MT / 15:15 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -151,10 +139,10 @@ https://gg.poocloud.in/l1_nice/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_ata/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15530" tvg-name="Espanyol vs. Barcelona" tvg-logo="https://api.ppv.to/assets/thumb/3bf5e4fff347efe328b10e584688ea69-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Espanyol vs. Barcelona - 03:00 PM ET / 01:00 PM MT / 20:00 UK
+#EXTINF:-1 tvg-id="ppv-15577" tvg-name="Lille vs. Stade Rennais" tvg-logo="https://api.ppv.to/assets/thumb/d83a89c1f64b35597807c6e1f9937175-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Lille vs. Stade Rennais - 03:05 PM ET / 01:05 PM MT / 20:05 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ll_esp/index.m3u8
+https://gg.poocloud.in/l1_lill/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15602" tvg-name="Carolina Panthers vs. Tampa Bay Buccaneers" tvg-logo="https://api.ppv.to/assets/thumb/d21d821ca231f5d046abfe0819a9bc31-thumbnail.jpg" group-title="PPVLand - NFL Action",Carolina Panthers vs. Tampa Bay Buccaneers - 04:30 PM ET / 02:30 PM MT / 21:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -163,10 +151,10 @@ https://gg.poocloud.in/tampabaybuccaneers/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sanfrancisco49ers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15588" tvg-name="AEW: Saturday Night Collision" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="PPVLand - Wrestling Events",AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTINF:-1 tvg-id="ppv-15570" tvg-name="Lazio vs. Napoli" tvg-logo="https://api.ppv.to/assets/thumb/70ca9127f9a79f2463f170f66c77a535-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Lazio vs. Napoli - 06:30 AM ET / 04:30 AM MT / 11:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/wrestling/index.m3u8
+https://gg.poocloud.in/sa_laz/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15558" tvg-name="Leeds United vs. Manchester United" tvg-logo="https://api.ppv.to/assets/thumb/e54cbd8888ada20db1205420dc782a89-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Leeds United vs. Manchester United - 07:30 AM ET / 05:30 AM MT / 12:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -179,34 +167,30 @@ https://gg.poocloud.in/ll_sev/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_fio/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15578" tvg-name="Marseille vs. Nantes" tvg-logo="https://api.ppv.to/assets/thumb/d7829d33a2ab0af4557f905d56f99514-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Marseille vs. Nantes - 09:00 AM ET / 07:00 AM MT / 14:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/l1_olm/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15559" tvg-name="Everton vs. Brentford" tvg-logo="https://api.ppv.to/assets/thumb/569fb0013ec39b8d35ab77e5d95f18b6-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Everton vs. Brentford - 10:00 AM ET / 08:00 AM MT / 15:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/pl_eve/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15560" tvg-name="Fulham vs. Liverpool" tvg-logo="https://api.ppv.to/assets/thumb/3483afe1c342727b57ac4ef3ecaebab2-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Fulham vs. Liverpool - 10:00 AM ET / 08:00 AM MT / 15:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/pl_ful/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15561" tvg-name="Newcastle United vs. Crystal Palace" tvg-logo="https://api.ppv.to/assets/thumb/eaa7fbde039ea3f5b9db93c50666249c-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Newcastle United vs. Crystal Palace - 10:00 AM ET / 08:00 AM MT / 15:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/pl_new/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15562" tvg-name="Tottenham Hotspur vs. Sunderland" tvg-logo="https://api.ppv.to/assets/thumb/c26cf49438aa869e01d4ad873dd169ad-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Tottenham Hotspur vs. Sunderland - 10:00 AM ET / 08:00 AM MT / 15:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/pl_tot/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15539" tvg-name="Real Madrid vs. Real Betis" tvg-logo="https://api.ppv.to/assets/thumb/7bfb1ba1fbe6ea2a1a57e2b05357f711-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Real Madrid vs. Real Betis - 10:15 AM ET / 08:15 AM MT / 15:15 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_rma/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15579" tvg-name="Brest vs. AJ Auxerre" tvg-logo="https://api.ppv.to/assets/thumb/7b8b730aca55a095afa83609be989cab-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Brest vs. AJ Auxerre - 11:15 AM ET / 09:15 AM MT / 16:15 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/l1_bre/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15580" tvg-name="Le Havre AC vs. Angers" tvg-logo="https://api.ppv.to/assets/thumb/00ee1ffb594f974bd3968628d8005343-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Le Havre AC vs. Angers - 11:15 AM ET / 09:15 AM MT / 16:15 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/l1_hac/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15581" tvg-name="Lorient vs. Metz" tvg-logo="https://api.ppv.to/assets/thumb/17e006f623c0a063a1ca1c418ef0e530-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Lorient vs. Metz - 11:15 AM ET / 09:15 AM MT / 16:15 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/l1_lor/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15572" tvg-name="Hellas Verona vs. Torino" tvg-logo="https://api.ppv.to/assets/thumb/af9fbb80c70992376a5554a553b0d635-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Hellas Verona vs. Torino - 12:00 PM ET / 10:00 AM MT / 17:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -215,10 +199,10 @@ https://gg.poocloud.in/sa_ver/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_ala/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15563" tvg-name="Manchester City vs. Chelsea" tvg-logo="https://api.ppv.to/assets/thumb/819142cc3fd49934504f31d34bd88e3e-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Manchester City vs. Chelsea - 12:30 PM ET / 10:30 AM MT / 17:30 UK
+#EXTINF:-1 tvg-id="ppv-15542" tvg-name="Mallorca vs. Girona" tvg-logo="https://api.ppv.to/assets/thumb/e7f3645a60df5893e5b4e6297a85e993-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Mallorca vs. Girona - 12:30 PM ET / 10:30 AM MT / 17:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/pl_mnc/index.m3u8
+https://gg.poocloud.in/ll_mll/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15608" tvg-name="New Orleans Saints vs. Atlanta Falcons" tvg-logo="https://api.ppv.to/assets/thumb/55f8e994ce8d00354a1d6928da36a786-thumbnail.jpg" group-title="PPVLand - NFL Action",New Orleans Saints vs. Atlanta Falcons - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -231,10 +215,10 @@ https://gg.poocloud.in/cincinnatibengals/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/minnesotavikings/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15616" tvg-name="Tennessee Titans vs. Jacksonville Jaguars" tvg-logo="https://api.ppv.to/assets/thumb/c2f0aea1c5a7bb6e45926baf2fb086f4-thumbnail.jpg" group-title="PPVLand - NFL Action",Tennessee Titans vs. Jacksonville Jaguars - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+#EXTINF:-1 tvg-id="ppv-15615" tvg-name="Dallas Cowboys vs. New York Giants" tvg-logo="https://api.ppv.to/assets/thumb/4ca44c4ce248fe63c7307528270d13b0-thumbnail.jpg" group-title="PPVLand - NFL Action",Dallas Cowboys vs. New York Giants - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/jacksonvillejaguars/index.m3u8
+https://gg.poocloud.in/newyorkgiants/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15617" tvg-name="Indianapolis Colts vs. Houston Texans" tvg-logo="https://api.ppv.to/assets/thumb/6dc83f19777b178e00da683930748b7d-thumbnail.jpg" group-title="PPVLand - NFL Action",Indianapolis Colts vs. Houston Texans - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -275,21 +259,11 @@ https://gg.poocloud.in/philadelphiaeagles/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/pittsburghsteelers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15443" tvg-name="Illinois State Redbirds vs. Montana State Bobcats" tvg-logo="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" group-title="PPVLand - NFL Action",Illinois State Redbirds vs. Montana State Bobcats - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+#EXTINF:-1 tvg-id="ppv-14284" tvg-name="UFC 324: Gaethje vs. Pimblett" tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg" group-title="PPVLand - Combat Sports",UFC 324: Gaethje vs. Pimblett - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ESPN/index.m3u8
+https://gg.poocloud.in/ufc/index.m3u8
 
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png" group-title="Pixelsports - NBA",Miami Heat at Detroit Pistons
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyHGuX-oXk0F7iowultUcMUE/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png" group-title="Pixelsports - NBA",Miami Heat at Detroit Pistons
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyLgThNNJgPmxYRWooBuuTLM/.m3u8
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/dal.png" group-title="Pixelsports - NBA",Philadelphia 76ers at Dallas Mavericks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
@@ -300,76 +274,26 @@ https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyDki00goR--yIWH_nRTKHz8/.
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-icy-metadata=1
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyJXr50Q1Ez0TAOBb2L0Ytbw/.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/la.png" group-title="Pixelsports - NHL",Tampa Bay Lightning at Los Angeles Kings
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png" group-title="Pixelsports - NFL",Los Angeles Chargers at Denver Broncos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyCzDFqthzQdOUPyVoF1Raxo/.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/la.png" group-title="Pixelsports - NHL",Tampa Bay Lightning at Los Angeles Kings
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyLh7OHT6jfKMb4N_AtQEH8w/.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png" group-title="Pixelsports - NFL",Los Angeles Chargers at Denver Broncos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyMPd5SKOg1ZLSAYMWsuU3CM/.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png" group-title="Pixelsports - NFL",Dallas Cowboys at New York Giants
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyLh7OHT6jfKMb4N_AtQEH8w/.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png" group-title="Pixelsports - NFL",Detroit Lions at Chicago Bears
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-icy-metadata=1
-https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyIEhHm_jUkeQaZ48x2G2a50/.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png" group-title="Pixelsports - NFL",Dallas Cowboys at New York Giants
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyMQ76E_1pUfyJRL9QrkIK44/.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png" group-title="Pixelsports - NFL",Detroit Lions at Chicago Bears
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-icy-metadata=1
-https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyIEhHm_jUkeQaZ48x2G2a50/.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png" group-title="Pixelsports - NFL",Seattle Seahawks at San Francisco 49ers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online/play/pAVJjXWDXadNqa4ml_eoyNtsz8ftG6MtjXkW_KmrTLQ/.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png" group-title="Pixelsports - NFL",Seattle Seahawks at San Francisco 49ers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyNtsz8ftG6MtjXkW_KmrTLQ/.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png" group-title="Pixelsports - NFL",Indianapolis Colts at Houston Texans
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyINBLjFUgy_v_2-Xq8WsUXU/.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png" group-title="Pixelsports - NFL",Indianapolis Colts at Houston Texans
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyINBLjFUgy_v_2-Xq8WsUXU/.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ott.png" group-title="Pixelsports - NHL",Washington Capitals at Ottawa Senators
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyM_Tduhy9w95BpGuaMK7-Kw/.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ott.png" group-title="Pixelsports - NHL",Washington Capitals at Ottawa Senators
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyHHrMSwNbAe1EI9agf3IFBo/.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png" group-title="Pixelsports - NFL",Kansas City Chiefs at Las Vegas Raiders
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyGyZLjAYVQfdfoOCMmXk7u8/.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png" group-title="Pixelsports - NFL",Kansas City Chiefs at Las Vegas Raiders
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://live.webcastserver.online/newz/newz/72.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png" group-title="Pixelsports - NFL",Baltimore Ravens at Pittsburgh Steelers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyCPa5o3jYIqrMBoXYKPYD1g/.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png" group-title="Pixelsports - NFL",Baltimore Ravens at Pittsburgh Steelers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyPGcTkTu9m86ergyXEjfcRs/.m3u8
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyMQ76E_1pUfyJRL9QrkIK44/.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/buf.png" group-title="Pixelsports - NFL",New York Jets at Buffalo Bills
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
@@ -380,76 +304,6 @@ https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyJLB1-Xjrf-fZ4CO6ouj8Pw/.
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-icy-metadata=1
 https://live.webcastserver.online/newz/newz/53.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/pit.png" group-title="Pixelsports - NHL",Detroit Red Wings at Pittsburgh Penguins
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyJUfykdanLePp20GvlOCWBE/.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/pit.png" group-title="Pixelsports - NHL",Detroit Red Wings at Pittsburgh Penguins
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyD5dNXkK9mPz725G69UiMUA/.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png" group-title="Pixelsports - NFL",New Orleans Saints at Atlanta Falcons
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyBWoGiMGcskdDkCatAy5_d4/.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png" group-title="Pixelsports - NFL",New Orleans Saints at Atlanta Falcons
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyLZ8c0OV_RXpwPxkWx7-618/.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png" group-title="Pixelsports - NFL",Washington Commanders at Philadelphia Eagles
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyPMMIj6L4rVpwkLbYWKQwYQ/.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png" group-title="Pixelsports - NFL",Washington Commanders at Philadelphia Eagles
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyKu3_wgotNc52jB3Ktka4LM/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png" group-title="Pixelsports - NBA",Houston Rockets at Brooklyn Nets
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyB8arSeYRsmlVvYdBb9v--0/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png" group-title="Pixelsports - NBA",Houston Rockets at Brooklyn Nets
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyHO4H_aEYfX5raY53a8pnqY/.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png" group-title="Pixelsports - NFL",Detroit Lions at Chicago Bears
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyMQ76E_1pUfyJRL9QrkIK44/.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png" group-title="Pixelsports - NFL",Detroit Lions at Chicago Bears
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyMQ76E_1pUfyJRL9QrkIK44/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png" group-title="Pixelsports - NBA",Boston Celtics at Sacramento Kings
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyBSTtkWiIUY3x7eoq8RK1FM/.m3u8
-#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png" group-title="Pixelsports - NBA",Boston Celtics at Sacramento Kings
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyBSTtkWiIUY3x7eoq8RK1FM/.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png" group-title="Pixelsports - NFL",Tennessee Titans at Jacksonville Jaguars
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyMCfkm8YUr2B5w2aitjzB94/.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png" group-title="Pixelsports - NFL",Tennessee Titans at Jacksonville Jaguars
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyNzI1x1s4W7NgiudkegRlh8/.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/chi.png" group-title="Pixelsports - NHL",Dallas Stars at Chicago Blackhawks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
@@ -460,6 +314,76 @@ https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyM3LLzGbtH-M3ufNSFjV5FM/.
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-icy-metadata=1
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyKyW2HlPaCfESbTpoMTsCPU/.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png" group-title="Pixelsports - NBA",Boston Celtics at Sacramento Kings
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyBSTtkWiIUY3x7eoq8RK1FM/.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sac.png" group-title="Pixelsports - NBA",Boston Celtics at Sacramento Kings
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyBSTtkWiIUY3x7eoq8RK1FM/.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png" group-title="Pixelsports - NFL",Indianapolis Colts at Houston Texans
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyINBLjFUgy_v_2-Xq8WsUXU/.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/hou.png" group-title="Pixelsports - NFL",Indianapolis Colts at Houston Texans
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyINBLjFUgy_v_2-Xq8WsUXU/.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png" group-title="Pixelsports - NFL",Tennessee Titans at Jacksonville Jaguars
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyMCfkm8YUr2B5w2aitjzB94/.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/jax.png" group-title="Pixelsports - NFL",Tennessee Titans at Jacksonville Jaguars
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyNzI1x1s4W7NgiudkegRlh8/.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png" group-title="Pixelsports - NBA",Houston Rockets at Brooklyn Nets
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyB8arSeYRsmlVvYdBb9v--0/.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/bkn.png" group-title="Pixelsports - NBA",Houston Rockets at Brooklyn Nets
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyHO4H_aEYfX5raY53a8pnqY/.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png" group-title="Pixelsports - NFL",New Orleans Saints at Atlanta Falcons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyBWoGiMGcskdDkCatAy5_d4/.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/atl.png" group-title="Pixelsports - NFL",New Orleans Saints at Atlanta Falcons
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyLZ8c0OV_RXpwPxkWx7-618/.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png" group-title="Pixelsports - MLB",San Diego Padres at Seattle Mariners
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://locked.pixelpanel.online/hdstream/embed/417.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png" group-title="Pixelsports - MLB",San Diego Padres at Seattle Mariners
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://locked.pixelpanel.online/hdstream/embed/433.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png" group-title="Pixelsports - NFL",Dallas Cowboys at New York Giants
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyIEhHm_jUkeQaZ48x2G2a50/.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/nyg.png" group-title="Pixelsports - NFL",Dallas Cowboys at New York Giants
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyIEhHm_jUkeQaZ48x2G2a50/.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lar.png" group-title="Pixelsports - NFL",Arizona Cardinals at Los Angeles Rams
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
@@ -470,36 +394,16 @@ https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyLZ8c0OV_RXpwPxkWx
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-icy-metadata=1
 https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyIf_V2_zn837ez95LIuEUEk/.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tor.png" group-title="Pixelsports - NHL",Winnipeg Jets at Toronto Maple Leafs
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png" group-title="Pixelsports - NFL",Miami Dolphins at New England Patriots
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyAa4rycbWdARNPxZvr-olsA/.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tor.png" group-title="Pixelsports - NHL",Winnipeg Jets at Toronto Maple Leafs
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyA3UleoKA1KeTdSU5BZIQTQ/.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png" group-title="Pixelsports - NFL",Miami Dolphins at New England Patriots
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyPakHcSG1X5sAzqcNz6J4M0/.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png" group-title="Pixelsports - NFL",Cleveland Browns at Cincinnati Bengals
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyCovRLY9Ie9U7ier209bNwI/.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png" group-title="Pixelsports - NFL",Cleveland Browns at Cincinnati Bengals
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyE1-htxqr-P5iQhnXJxXLP8/.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" group-title="Pixelsports - MLB",Chicago White Sox at Chicago Cubs
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://locked.pixelpanel.online/hdstream/embed/617.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" group-title="Pixelsports - MLB",Chicago White Sox at Chicago Cubs
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://locked.pixelpanel.online/hdstream/embed/561.m3u8
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyOTqKHxcRd53wkfdXF80ZHk/.m3u8
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/min.png" group-title="Pixelsports - NFL",Green Bay Packers at Minnesota Vikings
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
@@ -520,76 +424,16 @@ https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyCiOJ8NUrCzorHlSF-
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-icy-metadata=1
 https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyCiOJ8NUrCzorHlSF-mZ3iQ/.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png" group-title="Pixelsports - MLB",San Diego Padres at Seattle Mariners
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png" group-title="Pixelsports - NBA",Miami Heat at Detroit Pistons
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-icy-metadata=1
-https://locked.pixelpanel.online/hdstream/embed/417.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/sea.png" group-title="Pixelsports - MLB",San Diego Padres at Seattle Mariners
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyHGuX-oXk0F7iowultUcMUE/.m3u8
+#EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/det.png" group-title="Pixelsports - NBA",Miami Heat at Detroit Pistons
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-icy-metadata=1
-https://locked.pixelpanel.online/hdstream/embed/433.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png" group-title="Pixelsports - NFL",Miami Dolphins at New England Patriots
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyA3UleoKA1KeTdSU5BZIQTQ/.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/ne.png" group-title="Pixelsports - NFL",Miami Dolphins at New England Patriots
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyOTqKHxcRd53wkfdXF80ZHk/.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png" group-title="Pixelsports - MLB",Arizona Diamondbacks at Colorado Rockies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://locked.pixelpanel.online/hdstream/embed/427.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png" group-title="Pixelsports - MLB",Arizona Diamondbacks at Colorado Rockies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://locked.pixelpanel.online/hdstream/embed/162.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sea.png" group-title="Pixelsports - NHL",Nashville Predators at Seattle Kraken
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyJ0YU2SrJ8VmOcvmMOsI92I/.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sea.png" group-title="Pixelsports - NHL",Nashville Predators at Seattle Kraken
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyJCrEb_Htp2S7u_omHgteYA/.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png" group-title="Pixelsports - NFL",Los Angeles Chargers at Denver Broncos
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyLh7OHT6jfKMb4N_AtQEH8w/.m3u8
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/den.png" group-title="Pixelsports - NFL",Los Angeles Chargers at Denver Broncos
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyLh7OHT6jfKMb4N_AtQEH8w/.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png" group-title="Pixelsports - MLB",New York Yankees at Baltimore Orioles
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://locked.pixelpanel.online/hdstream/embed/349.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png" group-title="Pixelsports - MLB",New York Yankees at Baltimore Orioles
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://locked.pixelpanel.online/hdstream/embed/420.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png" group-title="Pixelsports - MLB",Kansas City Royals at Texas Rangers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://locked.pixelpanel.online/hdstream/embed/426.m3u8
-#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png" group-title="Pixelsports - MLB",Kansas City Royals at Texas Rangers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://pixelsport.tv/
-#EXTVLCOPT:http-icy-metadata=1
-https://locked.pixelpanel.online/hdstream/embed/165.m3u8
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyLgThNNJgPmxYRWooBuuTLM/.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/nyi.png" group-title="Pixelsports - NHL",Utah Mammoth at New York Islanders
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
@@ -600,6 +444,76 @@ https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyO4MiqOdknbwV7kcJxECzYM/.
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-icy-metadata=1
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyChi_wAfe311eTSgrKJh44I/.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png" group-title="Pixelsports - MLB",Arizona Diamondbacks at Colorado Rockies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://locked.pixelpanel.online/hdstream/embed/427.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/col.png" group-title="Pixelsports - MLB",Arizona Diamondbacks at Colorado Rockies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://locked.pixelpanel.online/hdstream/embed/162.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png" group-title="Pixelsports - MLB",New York Yankees at Baltimore Orioles
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://locked.pixelpanel.online/hdstream/embed/349.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/bal.png" group-title="Pixelsports - MLB",New York Yankees at Baltimore Orioles
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://locked.pixelpanel.online/hdstream/embed/420.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png" group-title="Pixelsports - NFL",Kansas City Chiefs at Las Vegas Raiders
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyGyZLjAYVQfdfoOCMmXk7u8/.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/lv.png" group-title="Pixelsports - NFL",Kansas City Chiefs at Las Vegas Raiders
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://live.webcastserver.online/newz/newz/72.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png" group-title="Pixelsports - MLB",Kansas City Royals at Texas Rangers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://locked.pixelpanel.online/hdstream/embed/426.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/tex.png" group-title="Pixelsports - MLB",Kansas City Royals at Texas Rangers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://locked.pixelpanel.online/hdstream/embed/165.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tor.png" group-title="Pixelsports - NHL",Winnipeg Jets at Toronto Maple Leafs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyAa4rycbWdARNPxZvr-olsA/.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/tor.png" group-title="Pixelsports - NHL",Winnipeg Jets at Toronto Maple Leafs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyPakHcSG1X5sAzqcNz6J4M0/.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/pit.png" group-title="Pixelsports - NHL",Detroit Red Wings at Pittsburgh Penguins
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyJUfykdanLePp20GvlOCWBE/.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/pit.png" group-title="Pixelsports - NHL",Detroit Red Wings at Pittsburgh Penguins
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyD5dNXkK9mPz725G69UiMUA/.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" group-title="Pixelsports - MLB",Chicago White Sox at Chicago Cubs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://locked.pixelpanel.online/hdstream/embed/617.m3u8
+#EXTINF:-1 tvg-id="MLB.Baseball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/mlb/500/scoreboard/chc.png" group-title="Pixelsports - MLB",Chicago White Sox at Chicago Cubs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://locked.pixelpanel.online/hdstream/embed/561.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/car.png" group-title="Pixelsports - NHL",Montreal Canadiens at Carolina Hurricanes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
@@ -615,6 +529,76 @@ https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyM2pFI1p9uRWCzY9m4S1YPA/.
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
 #EXTVLCOPT:http-icy-metadata=1
 https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyOipN0lKiXo0u0BKYVJkFsk/.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png" group-title="Pixelsports - NFL",Seattle Seahawks at San Francisco 49ers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online/play/pAVJjXWDXadNqa4ml_eoyNtsz8ftG6MtjXkW_KmrTLQ/.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/sf.png" group-title="Pixelsports - NFL",Seattle Seahawks at San Francisco 49ers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyNtsz8ftG6MtjXkW_KmrTLQ/.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png" group-title="Pixelsports - NFL",Washington Commanders at Philadelphia Eagles
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyPMMIj6L4rVpwkLbYWKQwYQ/.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/phi.png" group-title="Pixelsports - NFL",Washington Commanders at Philadelphia Eagles
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyKu3_wgotNc52jB3Ktka4LM/.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sea.png" group-title="Pixelsports - NHL",Nashville Predators at Seattle Kraken
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyJ0YU2SrJ8VmOcvmMOsI92I/.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/sea.png" group-title="Pixelsports - NHL",Nashville Predators at Seattle Kraken
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyJCrEb_Htp2S7u_omHgteYA/.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ott.png" group-title="Pixelsports - NHL",Washington Capitals at Ottawa Senators
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyM_Tduhy9w95BpGuaMK7-Kw/.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/ott.png" group-title="Pixelsports - NHL",Washington Capitals at Ottawa Senators
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyHHrMSwNbAe1EI9agf3IFBo/.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/la.png" group-title="Pixelsports - NHL",Tampa Bay Lightning at Los Angeles Kings
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyCzDFqthzQdOUPyVoF1Raxo/.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nhl/500/scoreboard/la.png" group-title="Pixelsports - NHL",Tampa Bay Lightning at Los Angeles Kings
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyMPd5SKOg1ZLSAYMWsuU3CM/.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png" group-title="Pixelsports - NFL",Cleveland Browns at Cincinnati Bengals
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyCovRLY9Ie9U7ier209bNwI/.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/cin.png" group-title="Pixelsports - NFL",Cleveland Browns at Cincinnati Bengals
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://hd.pixelhd.online:443/play/pAVJjXWDXadNqa4ml_eoyE1-htxqr-P5iQhnXJxXLP8/.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png" group-title="Pixelsports - NFL",Baltimore Ravens at Pittsburgh Steelers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyCPa5o3jYIqrMBoXYKPYD1g/.m3u8
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/pit.png" group-title="Pixelsports - NFL",Baltimore Ravens at Pittsburgh Steelers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://pixelsport.tv/
+#EXTVLCOPT:http-icy-metadata=1
+https://dash.pixelstreams.online:443/play/pAVJjXWDXadNqa4ml_eoyPGcTkTu9m86ergyXEjfcRs/.m3u8
 #EXTINF:-1 tvg-id="24.7.Dummy.us" tvg-logo="https://pixelsport.tv/static/media/PixelSportLogo.1182b5f687c239810f6d.png" group-title="Pixelsports - Live TV",NFL NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://pixelsport.tv/
@@ -3211,16 +3195,66 @@ https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/PPV_6/i
 
 
 
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Brooklyn Nets vs Houston Rockets" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphSCkFEJRDcQJEChB8QEEKYAmIGLtwEKTPqrZgy8IvNGqmtMM7GiIQA.webp" group-title="StreamedSU - Basketball",Brooklyn Nets vs Houston Rockets
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gg.poocloud.in/brooklynnets/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Montana vs Northern Arizona" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpiwIQtUCBDdtIElpAQQfAwBM96rQQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Basketball",Montana vs Northern Arizona
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/IQzxPwSXQRxpPfXKxionTErATRCWIrYD/delta/stream/live_ncaa_montana-northern-arizona-live-streaming-460248480/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Detroit Pistons vs Miami Heat" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Detroit Pistons vs Miami Heat
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/YcAtLkmognwpDkPeBlUXmyARQAAGDWXb/delta/stream/live_nba_pistons-heat-live-streaming-427187520/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Belmont Bruins vs Bradley Braves" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Belmont Bruins vs Bradley Braves
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/RRbKLuHwrrNFWEnNPNkfAIgAsGAdByjf/delta/stream/live_ncaa_belmont-bradley-live-streaming-460249344/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Queens Royals vs Eastern Kentucky Colonels" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Queens Royals vs Eastern Kentucky Colonels
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/rsDsPCxyqjcxuRhuXXEjZayfYtHOFLyK/delta/stream/live_ncaa_queens-eastern-kentucky-live-streaming-460249776/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="West Georgia Wolves vs Bellarmine Knights" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",West Georgia Wolves vs Bellarmine Knights
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/wCOzlkIrMjBgynPPuCJoMhguoMmEaDAR/delta/stream/live_ncaa_west-georgia-wolves-bellarmine-live-streaming-460250640/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Carolina Hurricanes vs Montral Canadiens" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",Carolina Hurricanes vs Montral Canadiens
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/JMXQNBsgebrSiojKSumQEhRxJiwadAzu/delta/stream/live_nhl_hurricanes-canadiens-live-streaming-484832304/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Los Angeles Kings vs Tampa Bay Lightning" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",Los Angeles Kings vs Tampa Bay Lightning
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/iMpMrlqiLdqpbSJZhyJxoMIotNBsvLGA/delta/stream/live_nhl_kings-lightning-live-streaming-484832736/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Pittsburgh Penguins vs Detroit Red Wings" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",Pittsburgh Penguins vs Detroit Red Wings
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/VlrLoMeGcCFrHPSFMqpnuoGPJEGdMYdQ/delta/stream/live_nhl_penguins-red-wings-live-streaming-484833168/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="Toronto Maple Leafs vs Winnipeg Jets" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Hockey",Toronto Maple Leafs vs Winnipeg Jets
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/ShfYzoplBMdTaflDZlVQVFyCAaXQhkVA/delta/stream/live_nhl_maple-leafs-jets-live-streaming-484833600/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="UC Davis vs Cal State-Northridge" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMCjC8kIXt10gSIY-oiGQfC7mMEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Basketball",UC Davis vs Cal State-Northridge
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/ZVFWzZhVEJpMvgxRqGggOmdNDOPGocoe/delta/stream/live_ncaa_uc-davis-csu-northridge-live-streaming-427197024/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Brooklyn Nets vs Houston Rockets" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Brooklyn Nets vs Houston Rockets
+https://lb6.strmd.top/secure/roHtdkZkPMnSdwJiuafmiNXKhIUQzYOo/delta/stream/live_ncaa_uc-davis-csu-northridge-live-streaming-427197024/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Arkansas Little Rock Trojans vs Tennessee Tech Golden Eagles" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Arkansas Little Rock Trojans vs Tennessee Tech Golden Eagles
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/waMsNvsxXWxPLfkZpWKfGhmKwsWqVrSo/delta/stream/live_nba_nets-rockets-live-streaming-427187088/1/playlist.m3u8
+https://lb3.strmd.top/secure/IkMjMJeEEHGIbvkwEOBDkCKUtThtpjfe/delta/stream/live_ncaa_arkansas-little-rock-tennessee-tech-live-streaming-460248048/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Football.Dummy.us" tvg-name="Indiana vs Alabama" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAoK4PmF5oQ3ECRAATEBBCJEB06cYUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - American Football",Indiana vs Alabama
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
@@ -3230,59 +3264,29 @@ https://gg.poocloud.in/ESPN/index.m3u8
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/BHQXDCwoyTFCyVFzUImpyNpYQCfSenrm/delta/stream/live_ncaa_weber-portland-state-live-streaming-460245024/1/playlist.m3u8
+https://lb6.strmd.top/secure/aSQqyKdHIGWQhEgrNLKVffhemAEiDRyK/delta/stream/live_ncaa_weber-portland-state-live-streaming-460245024/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Cal State Bakersfield Roadrunners vs UC Irvine Anteaters" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Cal State Bakersfield Roadrunners vs UC Irvine Anteaters
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/dibLmaEsLfwsfQqNuXMMAtVyCIFBOPly/delta/stream/live_ncaa_cs-bakersfield-uc-irvine-live-streaming-427193568/1/playlist.m3u8
+https://lb10.strmd.top/secure/FtNIOTwVmcZKbyPgoWqlORTAAAGIaczM/delta/stream/live_ncaa_cs-bakersfield-uc-irvine-live-streaming-427193568/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Louisiana-Monroe Warhawks vs Southern Mississippi Golden Eagles" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Louisiana-Monroe Warhawks vs Southern Mississippi Golden Eagles
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/zUcbyEbPqLDcTaUFDsWvZjBciOEzuaoL/delta/stream/live_ncaa_ulm-southern-mississippi-live-streaming-460247184/1/playlist.m3u8
+https://lb1.strmd.top/secure/RiRLqhxxkpcnlzGVcKJrTIKmtUCyYmVY/delta/stream/live_ncaa_ulm-southern-mississippi-live-streaming-460247184/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Lindenwood Lions vs Morehead St Eagles" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Lindenwood Lions vs Morehead St Eagles
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/EgLMJugbuMtWYjURdwFAddZGZhiLqLRV/delta/stream/live_ncaa_lindenwood-lions-morehead-st-live-streaming-460246320/1/playlist.m3u8
+https://lb8.strmd.top/secure/FMOHUboutazmRcHxmoNylkgwwNZOeKAJ/delta/stream/live_ncaa_lindenwood-lions-morehead-st-live-streaming-460246320/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="SIU Edwardsville Cougars vs Southern Indiana Screaming Eagles" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",SIU Edwardsville Cougars vs Southern Indiana Screaming Eagles
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/KdhtCdrgxrayCIuwMhBATTRfCqamVLfR/delta/stream/live_ncaa_siu-edwardsville-usi-live-streaming-460246752/1/playlist.m3u8
+https://lb9.strmd.top/secure/FYbtSOrRlrhxhSIKPNXAuWHqnsibowmh/delta/stream/live_ncaa_siu-edwardsville-usi-live-streaming-460246752/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Tennessee Martin Skyhawks vs Western Illinois Leathernecks" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Tennessee Martin Skyhawks vs Western Illinois Leathernecks
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/TJIujtiFdLWialyccLPAhknEYCWRGoas/delta/stream/live_ncaa_tennessee-martin-western-illinois-live-streaming-460256688/1/playlist.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-name="New York Islanders vs Utah Mammoth" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpj4hRoebxzcQqiCAAmhkChAwQic-AIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Hockey",New York Islanders vs Utah Mammoth
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/newyorkislanders/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sunderland vs Manchester City" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmYPrDBqsYFCG4gIIFSD6HjuCyX0EKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Football",Sunderland vs Manchester City
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/pl_sun/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Brentford vs Tottenham Hotspur" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3oATMCmCriYENxCqQMEBCMgUJvWZQEKTPprZgy8IvNGamtMM7GiIQA.webp" group-title="StreamedSU - Football",Brentford vs Tottenham Hotspur
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/pl_bre/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="North Carolina Greensboro Spartans vs Chattanooga Mocs" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",North Carolina Greensboro Spartans vs Chattanooga Mocs
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/nQPVnmeQRglpCYkRTnzVoGSoVLRakAJy/delta/stream/live_ncaa_unc-greensboro-chattanooga-live-streaming-427194864/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Horse Racing: America's Day At the Races" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Horse Racing: America's Day At the Races
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/dDblOHHhhlPrLGWgRcSDfjzgwvFCLMmM/charlie/stream/americas-day-at-the-races-1629472835/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Tulsa Shootout " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Tulsa Shootout 
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/FTROFfyRfgodpFFzHGfhwrFXSpyOToDk/echo/stream/ppv-event-02-tulsa-shootout-ppv-02/1/playlist.m3u8
+https://lb8.strmd.top/secure/AmbhyzgnAQCUhpZqLVLwOgXdFkEzNLwH/delta/stream/live_ncaa_tennessee-martin-western-illinois-live-streaming-460256688/1/playlist.m3u8
