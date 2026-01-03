@@ -15,14 +15,6 @@ https://gg.poocloud.in/familyguy/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/thesimpsons/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15554" tvg-name="Aston Villa vs. Nottingham Forest" tvg-logo="https://api.ppv.to/assets/thumb/145be18c71bc7091ce96135402eecc9d-thumbnail.jpg" group-title="PPVLand - Live Now",Aston Villa vs. Nottingham Forest - 07:30 AM ET / 05:30 AM MT / 12:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/pl_avl/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15519" tvg-name="Celta Vigo vs. Valencia" tvg-logo="https://api.ppv.to/assets/thumb/4c352a533a4a9cb75a223500ba0c5485-thumbnail.jpg" group-title="PPVLand - Live Now",Celta Vigo vs. Valencia - 08:00 AM ET / 06:00 AM MT / 13:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ll_cel/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15566" tvg-name="Genoa vs. Pisa" tvg-logo="https://api.ppv.to/assets/thumb/c4f90c733633c35581ce8a35bdd42890-thumbnail.jpg" group-title="PPVLand - Live Now",Genoa vs. Pisa - 09:00 AM ET / 07:00 AM MT / 14:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -31,23 +23,23 @@ https://gg.poocloud.in/sa_gen/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_sas/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15555" tvg-name="Brighton & Hove Albion vs. Burnley" tvg-logo="https://api.ppv.to/assets/thumb/490152b0725b67a205762a956a323d0c-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Brighton & Hove Albion vs. Burnley - 10:00 AM ET / 08:00 AM MT / 15:00 UK
+#EXTINF:-1 tvg-id="ppv-15555" tvg-name="Brighton & Hove Albion vs. Burnley" tvg-logo="https://api.ppv.to/assets/thumb/490152b0725b67a205762a956a323d0c-thumbnail.jpg" group-title="PPVLand - Live Now",Brighton & Hove Albion vs. Burnley - 10:00 AM ET / 08:00 AM MT / 15:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/pl_bha/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15556" tvg-name="Wolverhampton Wanderers vs. West Ham United" tvg-logo="https://api.ppv.to/assets/thumb/dd0135a3eadc6217fa73751f9ff1525f-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Wolverhampton Wanderers vs. West Ham United - 10:00 AM ET / 08:00 AM MT / 15:00 UK
+#EXTINF:-1 tvg-id="ppv-15556" tvg-name="Wolverhampton Wanderers vs. West Ham United" tvg-logo="https://api.ppv.to/assets/thumb/dd0135a3eadc6217fa73751f9ff1525f-thumbnail.jpg" group-title="PPVLand - Live Now",Wolverhampton Wanderers vs. West Ham United - 10:00 AM ET / 08:00 AM MT / 15:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/pl_wol/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15524" tvg-name="Osasuna vs. Athletic Club" tvg-logo="https://api.ppv.to/assets/thumb/d0edaf27468aee5cefaf1dc2f4c69099-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Osasuna vs. Athletic Club - 10:15 AM ET / 08:15 AM MT / 15:15 UK
+#EXTINF:-1 tvg-id="ppv-15524" tvg-name="Osasuna vs. Athletic Club" tvg-logo="https://api.ppv.to/assets/thumb/d0edaf27468aee5cefaf1dc2f4c69099-thumbnail.jpg" group-title="PPVLand - Live Now",Osasuna vs. Athletic Club - 10:15 AM ET / 08:15 AM MT / 15:15 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_osa/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15575" tvg-name="AS Monaco vs. Lyon" tvg-logo="https://api.ppv.to/assets/thumb/caba358be42ecd3169de963faa2443a1-thumbnail.jpg" group-title="PPVLand - Global Football Streams",AS Monaco vs. Lyon - 11:00 AM ET / 09:00 AM MT / 16:00 UK
+#EXTINF:-1 tvg-id="ppv-15575" tvg-name="AS Monaco vs. Lyon" tvg-logo="https://api.ppv.to/assets/thumb/caba358be42ecd3169de963faa2443a1-thumbnail.jpg" group-title="PPVLand - Live Now",AS Monaco vs. Lyon - 11:00 AM ET / 09:00 AM MT / 16:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/l1_mon/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15696" tvg-name="Senegal vs. Sudan" tvg-logo="https://api.ppv.to/assets/thumb/dda7b3e8a55243bc50228ec8758acdf3-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Senegal vs. Sudan - 11:00 AM ET / 09:00 AM MT / 16:00 UK
+#EXTINF:-1 tvg-id="ppv-15696" tvg-name="Senegal vs. Sudan" tvg-logo="https://api.ppv.to/assets/thumb/dda7b3e8a55243bc50228ec8758acdf3-thumbnail.jpg" group-title="PPVLand - Live Now",Senegal vs. Sudan - 11:00 AM ET / 09:00 AM MT / 16:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/afcon/index.m3u8
@@ -83,10 +75,6 @@ https://gg.poocloud.in/sa_ata/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/darts/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15530" tvg-name="Espanyol vs. Barcelona" tvg-logo="https://api.ppv.to/assets/thumb/3bf5e4fff347efe328b10e584688ea69-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Espanyol vs. Barcelona - 03:00 PM ET / 01:00 PM MT / 20:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ll_esp/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15698" tvg-name="Utah Mammoth vs. New Jersey Devils" tvg-logo="https://api.ppv.to/assets/thumb/eb477b8c78820adf2e7b5a692a6e0926-thumbnail.jpg" group-title="PPVLand - NHL Action",Utah Mammoth vs. New Jersey Devils - 03:00 PM ET / 01:00 PM MT / 20:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -107,6 +95,10 @@ https://gg.poocloud.in/edmontonoilers/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/stlouisblues/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15708" tvg-name="Tampa Bay Lightning vs. San Jose Sharks" tvg-logo="https://api.ppv.to/assets/thumb/e502a426f2997bc5938cf59120f91104-thumbnail.jpg" group-title="PPVLand - NHL Action",Tampa Bay Lightning vs. San Jose Sharks - 04:00 PM ET / 02:00 PM MT / 21:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sanjosesharks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15602" tvg-name="Carolina Panthers vs. Tampa Bay Buccaneers" tvg-logo="https://api.ppv.to/assets/thumb/d21d821ca231f5d046abfe0819a9bc31-thumbnail.jpg" group-title="PPVLand - NFL Action",Carolina Panthers vs. Tampa Bay Buccaneers - 04:30 PM ET / 02:30 PM MT / 21:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -135,10 +127,10 @@ https://gg.poocloud.in/carolinahurricanes/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/calgaryflames/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15700" tvg-name="Atlanta Hawks vs. Toronto Raptors" tvg-logo="https://api.ppv.to/assets/thumb/76fa0ea6fc1310ecd5e12bbb6c6376c6-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Atlanta Hawks vs. Toronto Raptors - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+#EXTINF:-1 tvg-id="ppv-15697" tvg-name="Philadelphia 76ers vs. New York Knicks" tvg-logo="https://api.ppv.to/assets/thumb/538641e5d67f300ee62a75dfb2b87c11-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Philadelphia 76ers vs. New York Knicks - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/torontoraptors/index.m3u8
+https://gg.poocloud.in/newyorkknicks/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15605" tvg-name="Seattle Seahawks vs. San Francisco 49ers" tvg-logo="https://api.ppv.to/assets/thumb/39529cbbb40bc30029e03703485ebd33-thumbnail.jpg" group-title="PPVLand - NFL Action",Seattle Seahawks vs. San Francisco 49ers - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -151,10 +143,10 @@ https://gg.poocloud.in/chicagobulls/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sanantoniospurs/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15705" tvg-name="Houston Rockets vs. Dallas Mavericks" tvg-logo="https://api.ppv.to/assets/thumb/58ca315a5c0fd70ca0b8e76419361870-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Houston Rockets vs. Dallas Mavericks - 08:30 PM ET / 06:30 PM MT / 01:30 UK
+#EXTINF:-1 tvg-id="ppv-15588" tvg-name="AEW: Saturday Night Collision" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="PPVLand - Wrestling Events",AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/dallasmavericks/index.m3u8
+https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15715" tvg-name="Minnesota Wild vs. Los Angeles Kings" tvg-logo="https://api.ppv.to/assets/thumb/419039fd232589802c4ea9b3bbfd1606-thumbnail.jpg" group-title="PPVLand - NHL Action",Minnesota Wild vs. Los Angeles Kings - 09:00 PM ET / 07:00 PM MT / 02:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -171,18 +163,22 @@ https://gg.poocloud.in/vancouvercanucks/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/laclippers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15570" tvg-name="Lazio vs. Napoli" tvg-logo="https://api.ppv.to/assets/thumb/70ca9127f9a79f2463f170f66c77a535-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Lazio vs. Napoli - 06:30 AM ET / 04:30 AM MT / 11:30 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/sa_laz/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15558" tvg-name="Leeds United vs. Manchester United" tvg-logo="https://api.ppv.to/assets/thumb/e54cbd8888ada20db1205420dc782a89-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Leeds United vs. Manchester United - 07:30 AM ET / 05:30 AM MT / 12:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/pl_lee/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15536" tvg-name="Sevilla vs. Levante" tvg-logo="https://api.ppv.to/assets/thumb/ef9b2498fd10e0b2ba179f9b659bc469-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Sevilla vs. Levante - 08:00 AM ET / 06:00 AM MT / 13:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ll_sev/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15571" tvg-name="Fiorentina vs. Cremonese" tvg-logo="https://api.ppv.to/assets/thumb/5c759575b428dc5adea5c69acda16048-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Fiorentina vs. Cremonese - 09:00 AM ET / 07:00 AM MT / 14:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_fio/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15578" tvg-name="Marseille vs. Nantes" tvg-logo="https://api.ppv.to/assets/thumb/d7829d33a2ab0af4557f905d56f99514-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Marseille vs. Nantes - 09:00 AM ET / 07:00 AM MT / 14:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/l1_olm/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15559" tvg-name="Everton vs. Brentford" tvg-logo="https://api.ppv.to/assets/thumb/569fb0013ec39b8d35ab77e5d95f18b6-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Everton vs. Brentford - 10:00 AM ET / 08:00 AM MT / 15:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -191,14 +187,14 @@ https://gg.poocloud.in/pl_eve/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/pl_ful/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15561" tvg-name="Newcastle United vs. Crystal Palace" tvg-logo="https://api.ppv.to/assets/thumb/eaa7fbde039ea3f5b9db93c50666249c-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Newcastle United vs. Crystal Palace - 10:00 AM ET / 08:00 AM MT / 15:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/pl_new/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15562" tvg-name="Tottenham Hotspur vs. Sunderland" tvg-logo="https://api.ppv.to/assets/thumb/c26cf49438aa869e01d4ad873dd169ad-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Tottenham Hotspur vs. Sunderland - 10:00 AM ET / 08:00 AM MT / 15:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/pl_tot/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15539" tvg-name="Real Madrid vs. Real Betis" tvg-logo="https://api.ppv.to/assets/thumb/7bfb1ba1fbe6ea2a1a57e2b05357f711-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Real Madrid vs. Real Betis - 10:15 AM ET / 08:15 AM MT / 15:15 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ll_rma/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15579" tvg-name="Brest vs. AJ Auxerre" tvg-logo="https://api.ppv.to/assets/thumb/7b8b730aca55a095afa83609be989cab-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Brest vs. AJ Auxerre - 11:15 AM ET / 09:15 AM MT / 16:15 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -207,10 +203,10 @@ https://gg.poocloud.in/l1_bre/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/l1_hac/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15581" tvg-name="Lorient vs. Metz" tvg-logo="https://api.ppv.to/assets/thumb/17e006f623c0a063a1ca1c418ef0e530-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Lorient vs. Metz - 11:15 AM ET / 09:15 AM MT / 16:15 UK
+#EXTINF:-1 tvg-id="ppv-15572" tvg-name="Hellas Verona vs. Torino" tvg-logo="https://api.ppv.to/assets/thumb/af9fbb80c70992376a5554a553b0d635-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Hellas Verona vs. Torino - 12:00 PM ET / 10:00 AM MT / 17:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/l1_lor/index.m3u8
+https://gg.poocloud.in/sa_ver/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15541" tvg-name="Alavés vs. Real Oviedo" tvg-logo="https://api.ppv.to/assets/thumb/1f03ec28b29415a255b929f2f9dd9782-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Alavés vs. Real Oviedo - 12:30 PM ET / 10:30 AM MT / 17:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -219,10 +215,10 @@ https://gg.poocloud.in/ll_ala/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_mll/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15563" tvg-name="Manchester City vs. Chelsea" tvg-logo="https://api.ppv.to/assets/thumb/819142cc3fd49934504f31d34bd88e3e-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Manchester City vs. Chelsea - 12:30 PM ET / 10:30 AM MT / 17:30 UK
+#EXTINF:-1 tvg-id="ppv-15608" tvg-name="New Orleans Saints vs. Atlanta Falcons" tvg-logo="https://api.ppv.to/assets/thumb/55f8e994ce8d00354a1d6928da36a786-thumbnail.jpg" group-title="PPVLand - NFL Action",New Orleans Saints vs. Atlanta Falcons - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/pl_mnc/index.m3u8
+https://gg.poocloud.in/atlantafalcons/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15611" tvg-name="Cleveland Browns vs. Cincinnati Bengals" tvg-logo="https://api.ppv.to/assets/thumb/c9fda0396269ada10e8703bf8ac2fc55-thumbnail.jpg" group-title="PPVLand - NFL Action",Cleveland Browns vs. Cincinnati Bengals - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -251,18 +247,22 @@ https://gg.poocloud.in/l1_psg/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_rso/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15618" tvg-name="New York Jets vs. Buffalo Bills" tvg-logo="https://api.ppv.to/assets/thumb/90200cdcb846ee2180bd0871c0a99265-thumbnail.jpg" group-title="PPVLand - NFL Action",New York Jets vs. Buffalo Bills - 04:25 PM ET / 02:25 PM MT / 21:25 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/buffalobills/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15619" tvg-name="Detroit Lions vs. Chicago Bears" tvg-logo="https://api.ppv.to/assets/thumb/404514c6f8c063faddb3a67656422151-thumbnail.jpg" group-title="PPVLand - NFL Action",Detroit Lions vs. Chicago Bears - 04:25 PM ET / 02:25 PM MT / 21:25 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/chicagobears/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15620" tvg-name="Los Angeles Chargers vs. Denver Broncos" tvg-logo="https://api.ppv.to/assets/thumb/03c1e246ce1614e05daae5808ca37c4d-thumbnail.jpg" group-title="PPVLand - NFL Action",Los Angeles Chargers vs. Denver Broncos - 04:25 PM ET / 02:25 PM MT / 21:25 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/denverbroncos/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15621" tvg-name="Kansas City Chiefs vs. Las Vegas Raiders" tvg-logo="https://api.ppv.to/assets/thumb/76c2d80450814ede9d68cac2d386c0b6-thumbnail.jpg" group-title="PPVLand - NFL Action",Kansas City Chiefs vs. Las Vegas Raiders - 04:25 PM ET / 02:25 PM MT / 21:25 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/lasvegasraiders/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15622" tvg-name="Arizona Cardinals vs. Los Angeles Rams" tvg-logo="https://api.ppv.to/assets/thumb/11f3db059bf62c2247acdb35daa7a265-thumbnail.jpg" group-title="PPVLand - NFL Action",Arizona Cardinals vs. Los Angeles Rams - 04:25 PM ET / 02:25 PM MT / 21:25 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/losangelesrams/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15623" tvg-name="Miami Dolphins vs. New England Patriots" tvg-logo="https://api.ppv.to/assets/thumb/7ed24fc2cd7d8e50f6cf5e4d3cfaea79-thumbnail.jpg" group-title="PPVLand - NFL Action",Miami Dolphins vs. New England Patriots - 04:25 PM ET / 02:25 PM MT / 21:25 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -271,14 +271,14 @@ https://gg.poocloud.in/newenglandpatriots/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/philadelphiaeagles/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15625" tvg-name="Baltimore Ravens vs. Pittsburgh Steelers" tvg-logo="https://api.ppv.to/assets/thumb/b80cc756e69663d6bcfbd25e9147ec41-thumbnail.jpg" group-title="PPVLand - NFL Action",Baltimore Ravens vs. Pittsburgh Steelers - 08:20 PM ET / 06:20 PM MT / 01:20 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/pittsburghsteelers/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15443" tvg-name="Illinois State Redbirds vs. Montana State Bobcats" tvg-logo="https://api.ppv.to/assets/thumb/20f718fc94df92886a4d8f61c3b07be6-thumbnail.jpg" group-title="PPVLand - NFL Action",Illinois State Redbirds vs. Montana State Bobcats - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14284" tvg-name="UFC 324: Gaethje vs. Pimblett" tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg" group-title="PPVLand - Combat Sports",UFC 324: Gaethje vs. Pimblett - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ufc/index.m3u8
 
 #EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/scoreboard/chi.png" group-title="Pixelsports - NFL",Detroit Lions at Chicago Bears
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -3231,63 +3231,93 @@ https://moveonjoy-scan.vercel.app/api/scan?url=https://fl1.moveonjoy.com/PPV_6/i
 
 
 
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Osasuna vs Athletic Club" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Osasuna vs Athletic Club
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Osasuna vs Athletic Bilbao" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATEOD4gBq0iG5qQiFCAggYG3PvMEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Football",Osasuna vs Athletic Bilbao
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/wjpCSylKmvBSTLAKrPaJnLySNCcdlyEl/delta/stream/live_laliga_osasuna-athletic-club-live-streaming-440692704/1/playlist.m3u8
+https://gg.poocloud.in/ll_osa/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Castelln vs Huesca" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpLBlwZeGBAhuICHpB8QJEChAxj50wQpM+KLqvL15oh01phVY0RCA.webp" group-title="StreamedSU - Football",Castelln vs Huesca
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/lvgZFoTvvOhLueTchiTVeafAsrzyKUsa/echo/stream/castellon-vs-huesca-football-1391978/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Almeria vs Granada CF" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgAxiCIhs9cg0XNxPeCKrcCXVmDC58FoA.webp" group-title="StreamedSU - Football",Almeria vs Granada CF
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/vZkZAlzVgkxcGtUbHKFGUxgTJfoXpRiK/echo/stream/almeria-vs-granada-cf-football-1391980/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Rugby.Dummy.us" tvg-name="Bath Rugby vs Exeter Chiefs" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhyRsQ6gCZgQdENxAaDuECnUg+ZnBMIxgTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Rugby",Bath Rugby vs Exeter Chiefs
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb10.strmd.top/secure/PWTawBRJOqGOMPNTCHwyiUGBlARSbITN/charlie/stream/bath-rugby-vs-exeter-chiefs-1629472906/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Falkirk vs Aberdeen" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnBkAJmD5gUCENxAQDIPiBIgUx3OfMEKTPii5gy8IvNGOmtMM7GiIQA.webp" group-title="StreamedSU - Football",Falkirk vs Aberdeen
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/pHinzPHyQhvKKzWyTGufpNWOJSXtIIqe/echo/stream/falkirk-vs-aberdeen-football-1382788/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Wolverhampton Wanderers vs West Ham United" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphRgyUVeETcQEEABMQfXSBIgU50wYIUmfFFzXl680Q6a0wasaIhA.webp" group-title="StreamedSU - Football",Wolverhampton Wanderers vs West Ham United
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gg.poocloud.in/pl_wol/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Brighton and Hove Albion vs Burnley" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl5gQApmsTcQAExAH9BlCEQGcMAhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="StreamedSU - Football",Brighton and Hove Albion vs Burnley
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://gg.poocloud.in/pl_bha/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Motherwell vs St Mirren" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpnAATaGXWqQ3EBD0g+IbTAP6SuAhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="StreamedSU - Football",Motherwell vs St Mirren
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/GwuBPvqmWmlkeOcmtDUJLzxwbIcXTcNl/echo/stream/motherwell-vs-st-mirren-football-1382791/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Heart of Midlothian vs Livingston" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhC80IRCGBhtqkHxAQQKXCBga9JiYRjAmfFFzBl4ReaMdNaYZ2NEQgA.webp" group-title="StreamedSU - Football",Heart of Midlothian vs Livingston
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/NfLgQaAzsFJAgOBsSFitHXnDkEsNxVUZ/echo/stream/heart-of-midlothian-vs-livingston-football-1382789/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Dundee United vs Dundee" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpOBhS7ECjAgQ3EHxAkQMfSAghE5gCa6CFJnxRcwZeEXminTWmBdjREEA.webp" group-title="StreamedSU - Football",Dundee United vs Dundee
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb8.strmd.top/secure/zDmIwbtHNVEryBpGyMlyBFPDewiqKpIF/charlie/stream/dundee-utd-vs-dundee-1382787/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Kilmarnock vs Hibernian" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpl5IwKBCHhgkIbiAAmIYxBApcxs4bMEKTPii5gy2+vNGOmtMM7GiIQA.webp" group-title="StreamedSU - Football",Kilmarnock vs Hibernian
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb7.strmd.top/secure/qorUddJuLaOCyONNcyXvGlUUTAVIDNiV/echo/stream/kilmarnock-vs-hibernian-football-1382790/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Premier League: Wolves vs West Ham" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQEECH4xgeJrSpgWCHVyG1L5MLeAqhEIA.webp" group-title="StreamedSU - Football",Premier League: Wolves vs West Ham
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/YCnMqNTGPyaGVOjCflcjiGRYgZdilUEm/charlie/stream/wolves-vs-west-ham-1379168/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="North Carolina State Wolfpack vs Virginia Cavaliers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",North Carolina State Wolfpack vs Virginia Cavaliers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/CdNGgAfWIMiCHihRWAivxVVrvzBJUzOf/delta/stream/live_ncaa_nc-state-virginia-live-streaming-427393152/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Sassuolo vs Parma" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAATMCnFhwibmtwg+ICCBj6zqkPAIUmfTWzBl4ReaM1NaYJ2NEQgA.webp" group-title="StreamedSU - Football",Sassuolo vs Parma
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/sa_sas/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Felgueiras vs Oliveirense" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAD5UeWxQhuIACYhD2gxFwht2iAQpM+KLmDLwi80faa0wjsaIhA.webp" group-title="StreamedSU - Football",Felgueiras vs Oliveirense
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/hcVEWOFtqtxQyEmIWBgBDPNDeWiVYLtZ/charlie/stream/felgueiras-1932-vs-oliveirense-1398116/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Genoa vs Pisa" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkulyCWIFGD4huIEiG0oDIGCDOJTKAhSZ8UXMGXhF5o+01phHY0RCA.webp" group-title="StreamedSU - Football",Genoa vs Pisa
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/sa_gen/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Brighton & Hove Albion vs Burnley" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Brighton & Hove Albion vs Burnley
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/wmHkoDVyOSizzwtIDKaiUQJMYymKCXOV/delta/stream/live_premier-league_brighton-burnley-live-streaming-440646912/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Wolverhampton vs West Ham United" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Wolverhampton vs West Ham United
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/KDqXXdXhlPUlEAInbsowvlivdpqKhIaF/delta/stream/live_premier-league_wolves-west-ham-live-streaming-440649936/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Celta Vigo vs Valencia" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3qgQwMCAAmlEN20gSh4yhAQQFrWYIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Football",Celta Vigo vs Valencia
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://gg.poocloud.in/ll_cel/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Troyes vs Red Star" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkphYgoopjm4gAJiBIhDffYbW5cBCkz4ouYMvCLzRtprTD2xoiEA.webp" group-title="StreamedSU - Football",Troyes vs Red Star
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/cvvtAgGaCJSfuIMkPKfDdrVkuPpZqvwH/echo/stream/estac-troyes-vs-red-star-fc-93-football-1389276/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Riyadh Season Horse Racing: King Khaled University Cup, Saudi Broadcasting Authorities Cup & Ministry of Sports Cup Race Night" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Riyadh Season Horse Racing: King Khaled University Cup, Saudi Broadcasting Authorities Cup & Ministry of Sports Cup Race Night
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/CJatwqEkUZzrqtrBpNYdVGGObbZfVMQC/charlie/stream/king-khaled-university-cup-saudi-broadcasting-authorities-cup-and-ministry-of-sports-cup-race-night-1629472905/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Cultural Leonesa vs Real Sociedad II" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1gATChUiNiwMOPQjcRLAnQgUIbCFXZ65BgGNm4nvBFVuBLqzBhc+S0A.webp" group-title="StreamedSU - Football",Cultural Leonesa vs Real Sociedad II
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/IvUqWAriMxyKvLcuPfSOtRVuGeXWegca/echo/stream/cultural-leonesa-vs-real-sociedad-ii-football-1391976/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Aston Villa vs Nottingham Forest" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3kAGEFF5IEIbiBIaQAE0MQQMEIgMTCMYEz4ouYMvCLzRTprTAuxoiCA.webp" group-title="StreamedSU - Football",Aston Villa vs Nottingham Forest
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://gg.poocloud.in/pl_avl/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Celtic vs Rangers" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpPa4Q9JCAAmIbtt3q1KEDBOGQBCkz4ouYMvCLzRtprTD2xoiEA.webp" group-title="StreamedSU - Football",Celtic vs Rangers
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/gtIyROqpLoOenBCKZJodRgOCGcXDLTUF/charlie/stream/celtic-vs-rangers-1382786/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Joburg Super Kings vs Sunrisers Eastern Cape" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpjKIyAE1LsQ3EHxCIIOkCaM4cEAhSZ8UXMKqLzRdprTAOxoiEA.webp" group-title="StreamedSU - Cricket",Joburg Super Kings vs Sunrisers Eastern Cape
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/VIxchHiGhVLmkOLBIkhvaKKKenJHNiEv/charlie/stream/joburg-super-kings-vs-sunrisers-eastern-cape-1629472904/1/playlist.m3u8
+https://lb10.strmd.top/secure/BEHOtEiYmcjcrmmgWtUKRlrSoHxDaWkW/charlie/stream/king-khaled-university-cup-saudi-broadcasting-authorities-cup-and-ministry-of-sports-cup-race-night-1629472905/1/playlist.m3u8
