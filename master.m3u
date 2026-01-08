@@ -15,11 +15,11 @@ https://gg.poocloud.in/familyguy/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/thesimpsons/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15814" tvg-name="Cremonese vs. Cagliari" tvg-logo="https://api.ppv.to/assets/thumb/b5ba8a550a2753f86241fcb972e327ae-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Cremonese vs. Cagliari - 12:30 PM ET / 10:30 AM MT / 17:30 UK
+#EXTINF:-1 tvg-id="ppv-15814" tvg-name="Cremonese vs. Cagliari" tvg-logo="https://api.ppv.to/assets/thumb/b5ba8a550a2753f86241fcb972e327ae-thumbnail.jpg" group-title="PPVLand - Live Now",Cremonese vs. Cagliari - 12:30 PM ET / 10:30 AM MT / 17:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_cre/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15921" tvg-name="Paris Saint-Germain vs. Marseille" tvg-logo="https://api.ppv.to/assets/thumb/2e108cc7587992c02495501d0a8c3433-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Paris Saint-Germain vs. Marseille - 01:00 PM ET / 11:00 AM MT / 18:00 UK
+#EXTINF:-1 tvg-id="ppv-15921" tvg-name="Paris Saint-Germain vs. Marseille" tvg-logo="https://api.ppv.to/assets/thumb/2e108cc7587992c02495501d0a8c3433-thumbnail.jpg" group-title="PPVLand - Live Now",Paris Saint-Germain vs. Marseille - 01:00 PM ET / 11:00 AM MT / 18:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/l1_psg/index.m3u8
@@ -143,10 +143,6 @@ https://gg.poocloud.in/bl_hdh/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/bl_fcu/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15790" tvg-name="SC Freiburg vs. Hamburg SV" tvg-logo="https://api.ppv.to/assets/thumb/bd705b1a47f310595dd73bedbf535280-thumbnail.jpg" group-title="PPVLand - Global Football Streams",SC Freiburg vs. Hamburg SV - 09:30 AM ET / 07:30 AM MT / 14:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/bl_scf/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15791" tvg-name="St. Pauli vs. RB Leipzig" tvg-logo="https://api.ppv.to/assets/thumb/bf9c9f8ffcec7218003fef3dd0de8ec8-thumbnail.jpg" group-title="PPVLand - Global Football Streams",St. Pauli vs. RB Leipzig - 09:30 AM ET / 07:30 AM MT / 14:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -163,10 +159,6 @@ https://gg.poocloud.in/ll_vil/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_roma/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15782" tvg-name="Girona vs. Osasuna" tvg-logo="https://api.ppv.to/assets/thumb/37f3b08c135c7887047ab557b8b8282f-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Girona vs. Osasuna - 12:30 PM ET / 10:30 AM MT / 17:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ll_gir/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15793" tvg-name="Bayer Leverkusen vs. VfB Stuttgart" tvg-logo="https://api.ppv.to/assets/thumb/6489efa8339145b5058e08da7b8d7831-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Bayer Leverkusen vs. VfB Stuttgart - 12:30 PM ET / 10:30 AM MT / 17:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -175,10 +167,10 @@ https://gg.poocloud.in/bl_b04/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/smx/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15783" tvg-name="Valencia vs. Elche" tvg-logo="https://api.ppv.to/assets/thumb/8e706351e2f3f999d1fd8fe5ceef1e59-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Valencia vs. Elche - 03:00 PM ET / 01:00 PM MT / 20:00 UK
+#EXTINF:-1 tvg-id="ppv-15819" tvg-name="Atalanta vs. Torino" tvg-logo="https://api.ppv.to/assets/thumb/1be4869ae1706bd4e51f28a31534ff1f-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Atalanta vs. Torino - 02:45 PM ET / 12:45 PM MT / 19:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ll_val/index.m3u8
+https://gg.poocloud.in/sa_ata/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15869" tvg-name="Los Angeles Rams vs. Carolina Panthers" tvg-logo="https://api.ppv.to/assets/thumb/94b83e19e92e8e128422a2889d65114e-thumbnail.jpg" group-title="PPVLand - NFL Action",Los Angeles Rams vs. Carolina Panthers - 04:30 PM ET / 02:30 PM MT / 21:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -191,10 +183,10 @@ https://gg.poocloud.in/chicagobears/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/wrestling/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15820" tvg-name="Lecce vs. Parma" tvg-logo="https://api.ppv.to/assets/thumb/f458d5351ab28a18d4ca4cd60eca8060-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Lecce vs. Parma - 06:30 AM ET / 04:30 AM MT / 11:30 UK
+#EXTINF:-1 tvg-id="ppv-15925" tvg-name="RAF 05: Covington vs. Rockhold" tvg-logo="https://api.ppv.to/assets/thumb/5625f9f76a23c5bebc87da63620ffda8-thumbnail.jpg" group-title="PPVLand - Wrestling Events",RAF 05: Covington vs. Rockhold - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sa_lec/index.m3u8
+https://gg.poocloud.in/raf/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15784" tvg-name="Rayo Vallecano vs. Mallorca" tvg-logo="https://api.ppv.to/assets/thumb/f0b268ac94624cc050da5d1310ab2b24-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Rayo Vallecano vs. Mallorca - 08:00 AM ET / 06:00 AM MT / 13:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -207,10 +199,10 @@ https://gg.poocloud.in/sa_fio/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/bl_bmg/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15785" tvg-name="Levante vs. Espanyol" tvg-logo="https://api.ppv.to/assets/thumb/5a76503000f0a087df7446f9a78c266e-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Levante vs. Espanyol - 10:15 AM ET / 08:15 AM MT / 15:15 UK
+#EXTINF:-1 tvg-id="ppv-15795" tvg-name="Bayern Munich vs. VfL Wolfsburg" tvg-logo="https://api.ppv.to/assets/thumb/bf18c32b6af32d2fe02fc31eca366670-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Bayern Munich vs. VfL Wolfsburg - 11:30 AM ET / 09:30 AM MT / 16:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ll_lev/index.m3u8
+https://gg.poocloud.in/bl_mun/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15822" tvg-name="Hellas Verona vs. Lazio" tvg-logo="https://api.ppv.to/assets/thumb/3d0b3c2598ecf8609219d66012d1d8cc-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Hellas Verona vs. Lazio - 12:00 PM ET / 10:00 AM MT / 17:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -223,10 +215,10 @@ https://gg.poocloud.in/jacksonvillejaguars/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_int/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15872" tvg-name="San Francisco 49ers vs. Philadelphia Eagles" tvg-logo="https://api.ppv.to/assets/thumb/423f6485debd0888a42c8bc00460dc22-thumbnail.jpg" group-title="PPVLand - NFL Action",San Francisco 49ers vs. Philadelphia Eagles - 04:30 PM ET / 02:30 PM MT / 21:30 UK
+#EXTINF:-1 tvg-id="ppv-15873" tvg-name="Los Angeles Chargers vs. New England Patriots" tvg-logo="https://api.ppv.to/assets/thumb/363cd85b1d74fd7362c97609b59bb6d9-thumbnail.jpg" group-title="PPVLand - NFL Action",Los Angeles Chargers vs. New England Patriots - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/philadelphiaeagles/index.m3u8
+https://gg.poocloud.in/newenglandpatriots/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15824" tvg-name="Genoa vs. Cagliari" tvg-logo="https://api.ppv.to/assets/thumb/e225ea803afed2683386dcff9558f9ed-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Genoa vs. Cagliari - 12:30 PM ET / 10:30 AM MT / 17:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -235,14 +227,14 @@ https://gg.poocloud.in/sa_gen/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_juv/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15786" tvg-name="Sevilla vs. Celta Vigo" tvg-logo="https://api.ppv.to/assets/thumb/6bc8eff293d4a87318fb3af3bba8b904-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Sevilla vs. Celta Vigo - 03:00 PM ET / 01:00 PM MT / 20:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ll_sev/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15874" tvg-name="Houston Texans vs. Pittsburgh Steelers" tvg-logo="https://api.ppv.to/assets/thumb/5ac294f4f28fb24415e498e035e678ac-thumbnail.jpg" group-title="PPVLand - NFL Action",Houston Texans vs. Pittsburgh Steelers - 08:15 PM ET / 06:15 PM MT / 01:15 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/pittsburghsteelers/index.m3u8
+#EXTINF:-1 tvg-id="ppv-14284" tvg-name="UFC 324: Gaethje vs. Pimblett" tvg-logo="https://api.ppv.to/assets/thumb/0009785da1e175b7995e8c25313f5404-thumbnail.jpg" group-title="PPVLand - Combat Sports",UFC 324: Gaethje vs. Pimblett - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ufc/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA.Basketball.Dummy.us" tvg-logo="https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/mia.png" group-title="Pixelsports - NBA",New Orleans Pelicans at Miami Heat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -3190,38 +3182,43 @@ https://fl1.moveonjoy.com/PPV_6/mpegts
 
 
 
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Basketball Champions League: Levicki Patrioti vs Wurzburg" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Basketball Champions League: Levicki Patrioti vs Wurzburg
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/lbdbKNfQzhwldDWQcbVGDRFNWYSIemhM/charlie/stream/levicki-patrioti-vs-wurzburg-baskets-1629473141/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Paris Saint-Germain vs Olympique de Marseille" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Paris Saint-Germain vs Olympique de Marseille
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/NsuuhuOoDgdXjpmPiARUCBZHEAILazun/delta/stream/live_trophee-des-champions_psg-marseille-live-streaming-471312432/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Basketball Champions League: Karditsa Iaponiki vs Spartak Subotica" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Basketball Champions League: Karditsa Iaponiki vs Spartak Subotica
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb6.strmd.top/secure/LJBEywixWnQZOZpjffNUjgOXBojxxekC/charlie/stream/as-karditsas-vs-spartak-subotica-1629473140/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Cremonese vs Cagliari" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Cremonese vs Cagliari
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/ByTwIrfuAQhegaVDZJcZqjgayYzdTteV/delta/stream/live_serie-a_cremonese-cagliari-live-streaming-440753184/1/playlist.m3u8
+https://lb7.strmd.top/secure/plsPrdkFeoNFrUjMwTlBqUdoxHwtrLUb/delta/stream/live_serie-a_cremonese-cagliari-live-streaming-440753184/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Al-Nassr vs Al-Qadsiah" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/football.png?raw=true" group-title="StreamedSU - Football",Al-Nassr vs Al-Qadsiah
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/GMVuUuSgGJGEKYwYwTnMARMCNvrpsgvB/delta/stream/live_saudi-pro-league_al-nassr-al-qadsiah-live-streaming-440756208/1/playlist.m3u8
+https://lb8.strmd.top/secure/ieHnSywvHOagnXWQIaTOVFlzRQpSCFvy/delta/stream/live_saudi-pro-league_al-nassr-al-qadsiah-live-streaming-440756208/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Euroleague: Dubai Basketball vs Fenerbahce Beko Istanbul" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNbgBOBWke-MWiwagEZCmA6tepcpWoJIDRbXiZZdKpTyZ2TdIqGNg3NCAhmpIECxDkOIACYWIZENkJvgTyU99fOOBZOMFasXjjA5h4Q-DDAeHp0YCwKLpJCtAnkYMmRYRBAA.webp" group-title="StreamedSU - Basketball",Euroleague: Dubai Basketball vs Fenerbahce Beko Istanbul
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/YGTMQEOukAaVtuZIuxdfaptBJwTgCXWl/charlie/stream/dubai-basketball-vs-fenerbahce-beko-istanbul-1629473139/1/playlist.m3u8
+https://lb7.strmd.top/secure/MIcAtcLpdlhdBqFCApfYwtXvRtjXmWVm/charlie/stream/dubai-basketball-vs-fenerbahce-beko-istanbul-1629473139/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Cricket.Dummy.us" tvg-name="Joburg Super Kings vs Paarl Royals" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhAQQvbmCTAADLvUg+IRGu4hzamMZAwCFJnxRcwZeEXminTWmBdjREEA.webp" group-title="StreamedSU - Cricket",Joburg Super Kings vs Paarl Royals
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb6.strmd.top/secure/snXdsscRbDIQuoJXDptgacdBAqHaYSzX/charlie/stream/joburg-super-kings-vs-paarl-royals-1629473138/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Al-Hilal vs Al-Hazem" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkuhDwwZFLhB9YIbiAAmqkCRBm+e7SZMEKTPii7ry9eaMdNaYdWNEQgA.webp" group-title="StreamedSU - Football",Al-Hilal vs Al-Hazem
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/NTpafmARzFcOvNHAlGVsEnyGWyEeTDRH/delta/stream/live_saudi-pro-league_al-hilal-al-hazem-live-streaming-440754480/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Pro League: Al-Hilal Saudi FC vs Al-Hazm" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuCkMUFYwBjWfYeYNYLSlK4AQ2EOAFNawBOB2ke-MWiwagEZCp1a9S5StWAATCuIjAujMMAFpIrYZvjoQHENggg2BGMDxNaVMCwQ6uQ2jfJgHwFUIhA.webp" group-title="StreamedSU - Football",Pro League: Al-Hilal Saudi FC vs Al-Hazm
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb10.strmd.top/secure/hrDKWmewPyHDuSbUopdCoaJIQfOLjahq/charlie/stream/al-hilal-saudi-fc-vs-al-hazm-1436034/1/playlist.m3u8
+https://lb4.strmd.top/secure/zbfUEDRZYQvrRZNsgrSBvgfZSOdAKFWi/charlie/stream/joburg-super-kings-vs-paarl-royals-1629473138/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="Riyadh Season Horse Racing: Prince Sultan Bin Abdulaziz Festival Race Night 1" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",Riyadh Season Horse Racing: Prince Sultan Bin Abdulaziz Festival Race Night 1
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/DciAxJapOwhtQFDNGXDNNRcxwFKAvWLi/charlie/stream/prince-sultan-bin-abdulaziz-festival-race-night-1-1629473136/1/playlist.m3u8
+https://lb5.strmd.top/secure/ixhBsYcItQomYxchcKtxvLiytiEJvjiN/charlie/stream/prince-sultan-bin-abdulaziz-festival-race-night-1-1629473136/1/playlist.m3u8
