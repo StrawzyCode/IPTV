@@ -15,27 +15,23 @@ https://gg.poocloud.in/familyguy/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/thesimpsons/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15762" tvg-name="Getafe vs. Real Sociedad" tvg-logo="https://api.ppv.to/assets/thumb/72a542e44b7c5a11a05f9561e41d722b-thumbnail.jpg" group-title="PPVLand - Live Now",Getafe vs. Real Sociedad - 03:00 PM ET / 01:00 PM MT / 20:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ll_get/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15929" tvg-name="Toronto Raptors vs. Boston Celtics" tvg-logo="https://api.ppv.to/assets/thumb/d5dd2418a7d11fa1c9ec5abef21a6cef-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Toronto Raptors vs. Boston Celtics - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTINF:-1 tvg-id="ppv-15929" tvg-name="Toronto Raptors vs. Boston Celtics" tvg-logo="https://api.ppv.to/assets/thumb/d5dd2418a7d11fa1c9ec5abef21a6cef-thumbnail.jpg" group-title="PPVLand - Live Now",Toronto Raptors vs. Boston Celtics - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/bostonceltics/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15935" tvg-name="Philadelphia 76ers vs. Orlando Magic" tvg-logo="https://api.ppv.to/assets/thumb/95cff37670b9944232f4ad91acfc2584-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Philadelphia 76ers vs. Orlando Magic - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTINF:-1 tvg-id="ppv-15935" tvg-name="Philadelphia 76ers vs. Orlando Magic" tvg-logo="https://api.ppv.to/assets/thumb/95cff37670b9944232f4ad91acfc2584-thumbnail.jpg" group-title="PPVLand - Live Now",Philadelphia 76ers vs. Orlando Magic - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/orlandomagic/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15937" tvg-name="New Orleans Pelicans vs. Washington Wizards" tvg-logo="https://api.ppv.to/assets/thumb/9179b6272b93d9ccbeaae06511e72e9c-thumbnail.jpg" group-title="PPVLand - Basketball Hub",New Orleans Pelicans vs. Washington Wizards - 07:00 PM ET / 05:00 PM MT / 00:00 UK
+#EXTINF:-1 tvg-id="ppv-15937" tvg-name="New Orleans Pelicans vs. Washington Wizards" tvg-logo="https://api.ppv.to/assets/thumb/9179b6272b93d9ccbeaae06511e72e9c-thumbnail.jpg" group-title="PPVLand - Live Now",New Orleans Pelicans vs. Washington Wizards - 07:00 PM ET / 05:00 PM MT / 00:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/washingtonwizards/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15836" tvg-name="Oregon Ducks vs. Indiana Hoosiers" tvg-logo="https://api.ppv.to/assets/thumb/7f57931ba31a4d2c190558c4c6a03306-thumbnail.jpg" group-title="PPVLand - NFL Action",Oregon Ducks vs. Indiana Hoosiers - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+#EXTINF:-1 tvg-id="ppv-15836" tvg-name="Oregon Ducks vs. Indiana Hoosiers" tvg-logo="https://api.ppv.to/assets/thumb/7f57931ba31a4d2c190558c4c6a03306-thumbnail.jpg" group-title="PPVLand - Live Now",Oregon Ducks vs. Indiana Hoosiers - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ESPN4k-1080p/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15938" tvg-name="LA Clippers vs. Brooklyn Nets" tvg-logo="https://api.ppv.to/assets/thumb/02938aee83e12391be9429ce5b858d79-thumbnail.jpg" group-title="PPVLand - Basketball Hub",LA Clippers vs. Brooklyn Nets - 07:30 PM ET / 05:30 PM MT / 00:30 UK
+#EXTINF:-1 tvg-id="ppv-15938" tvg-name="LA Clippers vs. Brooklyn Nets" tvg-logo="https://api.ppv.to/assets/thumb/02938aee83e12391be9429ce5b858d79-thumbnail.jpg" group-title="PPVLand - Live Now",LA Clippers vs. Brooklyn Nets - 07:30 PM ET / 05:30 PM MT / 00:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/brooklynnets/index.m3u8
@@ -75,10 +71,6 @@ https://gg.poocloud.in/portlandtrailblazers/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/losangeleslakers/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15946" tvg-name="Everton vs. Sunderland" tvg-logo="https://api.ppv.to/assets/thumb/765da84adbb11e9b3af5ac303697b1a4-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Everton vs. Sunderland - 07:15 AM ET / 05:15 AM MT / 12:15 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/fa_eve/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15947" tvg-name="Macclesfield FC vs. Crystal Palace" tvg-logo="https://api.ppv.to/assets/thumb/daf1c87a5fafe8c7336e5eaa9929a96e-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Macclesfield FC vs. Crystal Palace - 07:15 AM ET / 05:15 AM MT / 12:15 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -91,10 +83,6 @@ https://gg.poocloud.in/fa_wol/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_ovi/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15816" tvg-name="Como vs. Bologna" tvg-logo="https://api.ppv.to/assets/thumb/10d8193fc5425b6aa99641d1d3aa8089-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Como vs. Bologna - 09:00 AM ET / 07:00 AM MT / 14:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sa_como/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15817" tvg-name="Udinese vs. Pisa" tvg-logo="https://api.ppv.to/assets/thumb/1d86d72651813e0d9001fa740334fd42-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Udinese vs. Pisa - 09:00 AM ET / 07:00 AM MT / 14:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -135,10 +123,10 @@ https://gg.poocloud.in/fa_shw/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/ll_vil/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15818" tvg-name="AS Roma vs. Sassuolo" tvg-logo="https://api.ppv.to/assets/thumb/0ab8cceafbe96c0b3b67c1d5ae3b6a9e-thumbnail.jpg" group-title="PPVLand - Global Football Streams",AS Roma vs. Sassuolo - 12:00 PM ET / 10:00 AM MT / 17:00 UK
+#EXTINF:-1 tvg-id="ppv-15782" tvg-name="Girona vs. Osasuna" tvg-logo="https://api.ppv.to/assets/thumb/37f3b08c135c7887047ab557b8b8282f-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Girona vs. Osasuna - 12:30 PM ET / 10:30 AM MT / 17:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sa_roma/index.m3u8
+https://gg.poocloud.in/ll_gir/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15793" tvg-name="Bayer Leverkusen vs. VfB Stuttgart" tvg-logo="https://api.ppv.to/assets/thumb/6489efa8339145b5058e08da7b8d7831-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Bayer Leverkusen vs. VfB Stuttgart - 12:30 PM ET / 10:30 AM MT / 17:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -167,26 +155,26 @@ https://gg.poocloud.in/carolinapanthers/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/chicagobears/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15831" tvg-name="AEW: Saturday Night Collision" tvg-logo="https://api.ppv.to/assets/thumb/6e29b1bb679dd5133c85bbaadc2c4b13-thumbnail.jpg" group-title="PPVLand - Wrestling Events",AEW: Saturday Night Collision - 08:00 PM ET / 06:00 PM MT / 01:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/wrestling/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15925" tvg-name="RAF 05: Covington vs. Rockhold" tvg-logo="https://api.ppv.to/assets/thumb/5625f9f76a23c5bebc87da63620ffda8-thumbnail.jpg" group-title="PPVLand - Wrestling Events",RAF 05: Covington vs. Rockhold - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/raf/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15820" tvg-name="Lecce vs. Parma" tvg-logo="https://api.ppv.to/assets/thumb/f458d5351ab28a18d4ca4cd60eca8060-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Lecce vs. Parma - 06:30 AM ET / 04:30 AM MT / 11:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/sa_lec/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15956" tvg-name="Derby County vs. Leeds United" tvg-logo="https://api.ppv.to/assets/thumb/bdf9f55f3d9f0eacd74322b800a8f3fb-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Derby County vs. Leeds United - 07:00 AM ET / 05:00 AM MT / 12:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/english-fa-cup_der/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15784" tvg-name="Rayo Vallecano vs. Mallorca" tvg-logo="https://api.ppv.to/assets/thumb/f0b268ac94624cc050da5d1310ab2b24-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Rayo Vallecano vs. Mallorca - 08:00 AM ET / 06:00 AM MT / 13:00 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ll_ray/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15821" tvg-name="Fiorentina vs. AC Milan" tvg-logo="https://api.ppv.to/assets/thumb/63d1d4245bb557213c16e76afdfa3b6b-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Fiorentina vs. AC Milan - 09:00 AM ET / 07:00 AM MT / 14:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_fio/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15957" tvg-name="Portsmouth vs. Arsenal" tvg-logo="https://api.ppv.to/assets/thumb/e6c6b77490ffa711b8d142e8419549de-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Portsmouth vs. Arsenal - 09:00 AM ET / 07:00 AM MT / 14:00 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/fa_por/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15794" tvg-name="Borussia Mönchengladbach vs. FC Augsburg" tvg-logo="https://api.ppv.to/assets/thumb/0cd0255d9dd0d82070cf00fd4e2cf4c7-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Borussia Mönchengladbach vs. FC Augsburg - 09:30 AM ET / 07:30 AM MT / 14:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -195,14 +183,14 @@ https://gg.poocloud.in/bl_bmg/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/fa_whu/index.m3u8
+#EXTINF:-1 tvg-id="ppv-15785" tvg-name="Levante vs. Espanyol" tvg-logo="https://api.ppv.to/assets/thumb/5a76503000f0a087df7446f9a78c266e-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Levante vs. Espanyol - 10:15 AM ET / 08:15 AM MT / 15:15 UK
+#EXTVLCOPT:http-referrer=https://ppv.to/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://gg.poocloud.in/ll_lev/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15795" tvg-name="Bayern Munich vs. VfL Wolfsburg" tvg-logo="https://api.ppv.to/assets/thumb/bf18c32b6af32d2fe02fc31eca366670-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Bayern Munich vs. VfL Wolfsburg - 11:30 AM ET / 09:30 AM MT / 16:30 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/bl_mun/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15959" tvg-name="Manchester United vs. Brighton & Hove Albion" tvg-logo="https://api.ppv.to/assets/thumb/1700fdbc0aa20f4e6db1e8833f48b1e9-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Manchester United vs. Brighton & Hove Albion - 11:30 AM ET / 09:30 AM MT / 16:30 UK
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/fa_man/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15822" tvg-name="Hellas Verona vs. Lazio" tvg-logo="https://api.ppv.to/assets/thumb/3d0b3c2598ecf8609219d66012d1d8cc-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Hellas Verona vs. Lazio - 12:00 PM ET / 10:00 AM MT / 17:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -211,10 +199,10 @@ https://gg.poocloud.in/sa_ver/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/jacksonvillejaguars/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15872" tvg-name="San Francisco 49ers vs. Philadelphia Eagles" tvg-logo="https://api.ppv.to/assets/thumb/423f6485debd0888a42c8bc00460dc22-thumbnail.jpg" group-title="PPVLand - NFL Action",San Francisco 49ers vs. Philadelphia Eagles - 04:30 PM ET / 02:30 PM MT / 21:30 UK
+#EXTINF:-1 tvg-id="ppv-15823" tvg-name="Internazionale vs. Napoli" tvg-logo="https://api.ppv.to/assets/thumb/b889e8650650c0dacda108f82d609681-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Internazionale vs. Napoli - 02:45 PM ET / 12:45 PM MT / 19:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/philadelphiaeagles/index.m3u8
+https://gg.poocloud.in/sa_int/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15873" tvg-name="Los Angeles Chargers vs. New England Patriots" tvg-logo="https://api.ppv.to/assets/thumb/363cd85b1d74fd7362c97609b59bb6d9-thumbnail.jpg" group-title="PPVLand - NFL Action",Los Angeles Chargers vs. New England Patriots - 08:00 PM ET / 06:00 PM MT / 01:00 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -227,10 +215,10 @@ https://gg.poocloud.in/sa_gen/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://gg.poocloud.in/sa_juv/index.m3u8
-#EXTINF:-1 tvg-id="ppv-15786" tvg-name="Sevilla vs. Celta Vigo" tvg-logo="https://api.ppv.to/assets/thumb/6bc8eff293d4a87318fb3af3bba8b904-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Sevilla vs. Celta Vigo - 03:00 PM ET / 01:00 PM MT / 20:00 UK
+#EXTINF:-1 tvg-id="ppv-15960" tvg-name="Liverpool vs. Barnsley" tvg-logo="https://api.ppv.to/assets/thumb/c5de6cf471bf49560337f5b5692c5fa1-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Liverpool vs. Barnsley - 02:45 PM ET / 12:45 PM MT / 19:45 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://gg.poocloud.in/ll_sev/index.m3u8
+https://gg.poocloud.in/fa_liv/index.m3u8
 #EXTINF:-1 tvg-id="ppv-15874" tvg-name="Houston Texans vs. Pittsburgh Steelers" tvg-logo="https://api.ppv.to/assets/thumb/5ac294f4f28fb24415e498e035e678ac-thumbnail.jpg" group-title="PPVLand - NFL Action",Houston Texans vs. Pittsburgh Steelers - 08:15 PM ET / 06:15 PM MT / 01:15 UK
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -3186,43 +3174,83 @@ https://fl1.moveonjoy.com/PPV_6/mpegts
 
 
 
-#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Formula E: Free Practice 1: Mexico City" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",Formula E: Free Practice 1: Mexico City
+#EXTINF:-1 tvg-id="Tennis.Dummy.us" tvg-name="United Cup: Day 9" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Tennis-2.png" group-title="StreamedSU - Tennis",United Cup: Day 9
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb9.strmd.top/secure/OvQvpulpldAMphvHNHYkMxZLpIeZLKyD/charlie/stream/free-practice-1-mexico-city-1629473203/1/playlist.m3u8
+https://lb2.strmd.top/secure/jblUbzsGWAeiCareZCdRilepSYRCtWWF/charlie/stream/day-9-1629473204/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Boston Celtics vs Toronto Raptors" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Boston Celtics vs Toronto Raptors
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb5.strmd.top/secure/CeqGPOZXNGrnhxTzzBuywUGaLjxxEFaA/delta/stream/live_nba_celtics-raptors-live-streaming-427645008/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Orlando Magic vs Philadelphia 76ers" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Orlando Magic vs Philadelphia 76ers
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/kUnoiKzrHslpnUtieJswHUDbzKaCsMSe/delta/stream/live_nba_magic-76ers-live-streaming-427645440/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Washington Wizards vs New Orleans Pelicans" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Washington Wizards vs New Orleans Pelicans
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb4.strmd.top/secure/uWrYwDVrVrGBUpTGYjhdmRzQmUrythFv/delta/stream/live_nba_wizards-pelicans-live-streaming-427645872/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Detroit Titans vs Wright State Raiders" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Detroit Titans vs Wright State Raiders
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/ZIVTOqcRNuArjlPtSeaOTMljaPIFBqEE/delta/stream/live_ncaa_detroit-wright-live-streaming-427702032/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Fairfield Stags vs Rider Broncs" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Fairfield Stags vs Rider Broncs
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/qpyjfIpVmvwTlbAuNRMicWtpwZpwoNSQ/delta/stream/live_ncaa_fairfield-rider-live-streaming-427702464/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Iona Gaels vs Niagara Purple Eagles" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Iona Gaels vs Niagara Purple Eagles
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/gdNfctdDDVwWKGKrRtUdKMVSHFpQVRwz/delta/stream/live_ncaa_iona-niagara-live-streaming-427702896/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Manhattan Jaspers vs Canisius Golden Griffins" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Manhattan Jaspers vs Canisius Golden Griffins
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb1.strmd.top/secure/DOzxkcSldtTZUvNASQRODlrSFtNvktaB/delta/stream/live_ncaa_manhattan-canisius-live-streaming-427703328/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Mount St Mary's Mountaineers vs Saint Peter's Peacocks" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Mount St Mary's Mountaineers vs Saint Peter's Peacocks
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/jUYiXwKhHYObKRLWbdUjmpqhlGlRaUyq/delta/stream/live_ncaa_mount-st-marys-saint-peters-live-streaming-427703760/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Oakland Golden Grizzlies vs Cleveland State Vikings" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Oakland Golden Grizzlies vs Cleveland State Vikings
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/ACZyGSRykvfZtTKayNzFQIsSRkSANJAs/delta/stream/live_ncaa_oakland-cleveland-live-streaming-427704192/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Sacred Heart Pioneers vs Marist Red Foxes" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Sacred Heart Pioneers vs Marist Red Foxes
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb9.strmd.top/secure/psbMtcvjBxMnRMSWRJENmuVyJuOTzGvr/delta/stream/live_ncaa_sacred-heart-marist-live-streaming-427704624/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Siena Saints vs Merrimack Warriors" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Siena Saints vs Merrimack Warriors
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb3.strmd.top/secure/XovYcAOpgFeEUbOZzONlvXHGUHuywUOC/delta/stream/live_ncaa_siena-merrimack-live-streaming-427705056/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Wisconsin Green Bay Phoenix vs IUPUI Jaguars" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Wisconsin Green Bay Phoenix vs IUPUI Jaguars
+#EXTVLCOPT:http-origin=https://embedsports.top
+#EXTVLCOPT:http-referrer=https://embedsports.top/
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
+https://lb2.strmd.top/secure/npOaBtSwBWYjSvuRtkenVuTaocpmtWnG/delta/stream/live_ncaa_uwgb-iupui-live-streaming-427705920/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Toledo Rockets vs Miami Ohio" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/nba.png?raw=true" group-title="StreamedSU - Basketball",Toledo Rockets vs Miami Ohio
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb3.strmd.top/secure/NGySxFgcSzcuuSFwFmQnIxyVSzvVbQqL/delta/stream/live_ncaa_toledo-miami-ohio-live-streaming-427889520/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Getafe vs Real Sociedad" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkpgAmsaGrg5uICCD4hEJEDFwgUISyoIUmfFFzBl4ReaIdNaYJ2NEQgA.webp" group-title="StreamedSU - Football",Getafe vs Real Sociedad
+https://lb4.strmd.top/secure/yckwlpgZsNoDXTdRLrvocdNCDNJDbaoA/delta/stream/live_ncaa_toledo-miami-ohio-live-streaming-427889520/1/playlist.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-name="Formula E 2026 - GP Mexico City" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/f1.png?raw=true" group-title="StreamedSU - Motor Sports",Formula E 2026 - GP Mexico City
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb5.strmd.top/secure/sgkkyinDlwkasJYQhlRCkeAuRRbcNXis/admin/stream/ll_get/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Milton Keynes Dons vs Oxford United" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkhzA8QiKAL4huIACYgYOkNpwHdRxhSZ8UXMGXhF5ou01pgHY0RCA.webp" group-title="StreamedSU - Football",Milton Keynes Dons vs Oxford United
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/HpEPwkAgWJBGChOtYATkAtWnApMgOQyd/charlie/stream/milton-keynes-dons-vs-oxford-united-1629473201/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-name="Wrexham vs Nottingham Forest" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzrAThFlBWSUYAUwVmDW2nmAmD32FrWGHXbeAENgBjUgg5sSdTt0z1Rvdqyw8xAkh3kAGEFF5IEIbiBIaQAE0MQQMEIgMTCMYEz4ouYMvCLzRTprTAuxoiCA.webp" group-title="StreamedSU - Football",Wrexham vs Nottingham Forest
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb8.strmd.top/secure/jLZZnuoyXjUJKSSmtxjYRYxbOFNYhXNd/charlie/stream/wrexham-vs-nottingham-forest-1629473198/1/playlist.m3u8
+https://lb8.strmd.top/secure/ygJRRfwOXwXiJhYIHLPUxGtyNznqJDvQ/echo/stream/formula-e-mexico-city-eprix-racing-0059/1/playlist.m3u8
 #EXTINF:-1 tvg-id="Sports.Dummy.us" tvg-name="WWE SmackDown " tvg-logo="http://drewlive24.duckdns.org:9000/Logos/DrewLiveSports.png" group-title="StreamedSU - Other",WWE SmackDown 
 #EXTVLCOPT:http-origin=https://embedsports.top
 #EXTVLCOPT:http-referrer=https://embedsports.top/
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb2.strmd.top/secure/IxfAHVpfljNrdnXVOTEpDVIbFvqEWHUC/echo/stream/ppv-event-02-wwe-smackdown-ppv-02/1/playlist.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-name="Hapoel Tel-Aviv vs Paris" tvg-logo="https://streami.su/api/images/badge/GwZg7AZpYEZgHCAjAJgCzuFgpsCwVgBDQhWYNMATkhQFZgrDh49g773hta1HiEwAAzdI-IsDCT0Y3BMnx0IIiBggQ9cgwDGzST3hiq3Al1ZgwufFaA.webp" group-title="StreamedSU - Basketball",Hapoel Tel-Aviv vs Paris
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb4.strmd.top/secure/HZoFuUluApjKGCRVCDBnlCVKuEbhBzYt/echo/stream/hapoel-tel-aviv-vs-paris-basketball-454482/1/playlist.m3u8
-#EXTINF:-1 tvg-id="PPV.EVENTS.Dummy.us" tvg-name="ACA 198: Omarov vs Suleymanov 2" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/sports/mma.png?raw=true" group-title="StreamedSU - Fight",ACA 198: Omarov vs Suleymanov 2
-#EXTVLCOPT:http-origin=https://embedsports.top
-#EXTVLCOPT:http-referrer=https://embedsports.top/
-#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://lb7.strmd.top/secure/mPjzqtrHLyMrByhCZowfWeVQfMKjlACD/delta/stream/live-event_aca-198-omarov-vs-suleymanov-2-live-stream/1/playlist.m3u8
+https://lb3.strmd.top/secure/UZzKhudgCwBxdVUkUZTfHuAlwgdRWtyV/echo/stream/ppv-event-02-wwe-smackdown-ppv-02/1/playlist.m3u8
